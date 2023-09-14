@@ -4,23 +4,31 @@ I am an applied micro-economist specializing in public economics and market inte
 
 I am a Ph.D. candidate in Economics from the Interdisciplinary Center for Economic Science at George Mason University.
 
-You can find my C.V. here: [[web]](https://jdramirezc.github.io/cv/cv) or [[PDF]](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva).
+You can find my C.V. here: [[web]](https://ecastrom.github.io/eocastrom/cv) or [[PDF]](https://drive.google.com/file/d/14Q2V_9fIHtX4CvBdCw6HVwxmuQJ7eViJ/view?usp=drive_link).
+
+### PUBLISHED PAPERS
+
+Carrillo, P. E., Castro, E., and Scartascini, C. (2021). **"Public good provision and property tax compliance: Evidence from a natural experiment\"** . Journal of Public Economics, 198:104422. [(Link here)](https://doi.org/10.1016/j.jpubeco.2021.104422)
 
 ### WORKING PAPERS
 
-**"Price Distortions and Hoarding: An experiment\"** [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946092)
+**"Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina"**. (With C, Scartascini) [(Link here)](http://dx.doi.org/10.18235/0001661)
 
-**"At What Level Should One Cluster Standard Errors in Paired and
-Small-Strata Experiments?\"** (with Clément de Chaisemartin). Accepted by the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
+**"Price Distortions and Hoarding: An experiment\"** [(Link here)](https://drive.google.com/file/d/14KfuyY0jWgYsuD6m6OXHnyTfOOa-PAyA/view?usp=drive_link)
 
-**"The Pandemic Effects on Market Power and Profitability\"** (with Juan Espinosa-Torres). [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120819)
+**"How does flexibilization of public procurement affect its efficiency?"** (with A. Udovenko). 
+
+**"Patronage Networks and Favoritism in Colombian Public Procurement"** (with Hugo Diaz)
+
+**"Collective Deliberation: Theory and Experiment"** (with Mikhail Freer and Cesar Martinelli)
+
 
 ### REFERENCES
 
 **Dissertation Committee**
--   **Professor Richard Startz**, UCSB\
-&nbsp; Email: [startz@econ.ucsb.edu](mailto:startz@ucsb.edu)
--   **Professor Douglas Steigerwald**, UCSB\
-&nbsp; Email: <doug@ucsb.edu>
--   **Professor Clément de Chaisemartin**, Sciences Po\
-&nbsp; Email: <clement.dechaisemartin@sciencespo.fr>
+-   **Professor Cesar A. Martinelli**, GMU\
+&nbsp; Email: [cmarti33@gmu.edu](mailto:cmarti33@gmu.edu)
+-   **Professor Daniel Houser**, GMU\
+&nbsp; Email: <dhouser@gmu.edu>
+-   **Professor Thomas Stratmann**, GMU\
+&nbsp; Email: <tstratma@gmu.edu>
