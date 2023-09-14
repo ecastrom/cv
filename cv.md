@@ -10,8 +10,7 @@ Phone: +1 (202) 938-6656
 
 ## SUMMARY
 
-Ph.D. candidate in Economics from George Mason University with a robust foundation in Applied Microeconomics, Experimental Economics, and Public Economics. Edgar possesses over 5 years of professional experience with the Inter-American Development Bank, complemented by academia roles at George Mason and Universidad de los Andes.
----
+- Ph.D. candidate in Economics from George Mason University with a robust foundation in Applied Microeconomics, Experimental Economics, and Public Economics. Edgar possesses over 5 years of professional experience with the Inter-American Development Bank, complemented by academia roles at George Mason and Universidad de los Andes.
 
 ## METHODS
 
@@ -37,8 +36,11 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 - Carrillo, P. E., Castro, E., and Scartascini, C. (2021). Public good provision and property tax compliance: Evidence from a natural experiment. Journal of Public Economics, 198:104422. [(download)](https://drive.google.com/file/d/14KfuyY0jWgYsuD6m6OXHnyTfOOa-PAyA/view?usp=drive_link)
 
-
 ---
+
+## WORKING PAPERS
+
+- Castro, E and Scartascini, C (2019), Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina. [Download](http://dx.doi.org/10.18235/0001661)
 
 ## WORK EXPERIENCE 
 
@@ -60,7 +62,7 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 - Teaching Assistant, Game theory for Ph.D., George Mason University, (Spring 2021 – Fall 2022)
 - Teaching Assistant, Applied Econometrics, George Mason University, Spring 2021.
 - Teaching Assistant, Microeconomics for graduates, George Mason University, Spring 2020m Spring 2021.
-- Teaching Assistant, Introduction to Microeconomics for undergraduates, Universidad de los Andes, Fall 2013 and Spring 2014.
+- Lecturer, Introduction to Microeconomics for undergraduates, Universidad de los Andes, Fall 2013 and Spring 2014.
 - Teaching Assistant, Regulation and Competition Policy for graduates, Universidad de los Andes, Fall 2012 and Spring 2013.
 
 ---
@@ -68,7 +70,6 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 ## WORK IN PROGRESS
 
 - “Hoarding and Price Restrictions” (with Cesar Martinelli)
-- Castro, E and Scartascini, C (2019), Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina. [Download](http://dx.doi.org/10.18235/0001661)
 - "Lasting effects of China's One-Child Policy" (with Shan Gui and Binhui Xu)
 - “How does flexibilization of public procurement affect its efficiency?” (with Anastasya Yarygina Udovenko)
 - “Patronage Networks and Favoritism in Colombian Public Procurement” (with Hugo Diaz)
