@@ -69,7 +69,7 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 ## WORK IN PROGRESS
 
 - “Hoarding and Price Restrictions” (with Cesar Martinelli)
-- Castro, E and Scartascini, C (2019), Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina. [Download](#)
+- Castro, E and Scartascini, C (2019), Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina. [Download](http://dx.doi.org/10.18235/0001661)
 - “How does flexibilization of public procurement affect its efficiency?” (with Anastasya Yarygina Udovenko)
 - “Patronage Networks and Favoritism in Colombian Public Procurement” (with Hugo Diaz)
 - “Collective Deliberation: Theory and Experiment” (with Mikhail Freer and Cesar Martinelli)
