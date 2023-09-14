@@ -16,7 +16,7 @@ Abstract: We evaluate the effect of simplifying communications between taxpayers
 
 **"Patronage Networks and Favoritism in Colombian Public Procurement"** (with Hugo Diaz).
 
-Abstract: We study the 2015 Colombian mayoral elections, we investigate favoritism in Latin America's public procurement using a unique dataset that combines information on campaign contributors with public procurement. We compare contracts awarded to firms donating to winning candidates with those supporting losing ones. Results indicate a clear bias towards campaign contributors. Furthermore, contracts from bureaucrats appointed in the mayor's initial year show more favoritism compared to those by career officials or previous administration appointees. We follow these firms to reveal the lasting impacts of this favoritism.
+We study the 2015 Colombian mayoral elections, we investigate favoritism in Latin America's public procurement using a unique dataset that combines information on campaign contributors with public procurement. We compare contracts awarded to firms donating to winning candidates with those supporting losing ones. Results indicate a clear bias towards campaign contributors. Furthermore, contracts from bureaucrats appointed in the mayor's initial year show more favoritism compared to those by career officials or previous administration appointees. We follow these firms to reveal the lasting impacts of this favoritism.
 
 **"How does flexibilization of public procurement affect its efficiency? Evidence from the COVID pandemic in Colombia"** (with Anastasya Udovenko)
 
