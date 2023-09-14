@@ -1,6 +1,6 @@
 ## Edgar O. Castro Mendez
 
-I am an applied micro-economist specializing in public economics and market interventions. I employ laboratory and field experiments, alongside observational data, to provide insights and draw policy implications for real-world scenarios.
+I am an applied micro-economist specializing in public economics and market interventions. I employ laboratory and field experiments, alongside observational data, to provide insights and draw policy implications for real-world problems.
 
 I am a Ph.D. candidate in Economics from the Interdisciplinary Center for Economic Science at George Mason University.
 
@@ -12,13 +12,13 @@ You can find my C.V. here: [[web]](https://ecastrom.github.io/eocastrom/cv) or [
 
 ### Published papers
 
-Carrillo, P. E., Castro, E., and Scartascini, C. (2021). **"Public good provision and property tax compliance: Evidence from a natural experiment\"** . Journal of Public Economics, 198:104422. [(Link here)](https://doi.org/10.1016/j.jpubeco.2021.104422)
+**"Public good provision and property tax compliance: Evidence from a natural experiment\"** (Carrillo, P. and Scartascini, C.). Journal of Public Economics, 198:104422. [(Link here)](https://doi.org/10.1016/j.jpubeco.2021.104422)
 
 
 ### Dissertation commitee
--   **Professor Cesar A. Martinelli**, GMU\
+-   **Professor Cesar A. Martinelli** (Chair)\
 &nbsp; Email: [cmarti33@gmu.edu](mailto:cmarti33@gmu.edu)
--   **Professor Daniel Houser**, GMU\
+-   **Professor Daniel Houser**
 &nbsp; Email: <dhouser@gmu.edu>
--   **Professor Thomas Stratmann**, GMU\
+-   **Professor Thomas Stratmann**
 &nbsp; Email: <tstratma@gmu.edu>
