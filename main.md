@@ -1,6 +1,6 @@
 ## Edgar O. Castro Mendez
 
-I am an applied Micro-economist with research interests in public economics and market interventions. Specifically, I investigate the role of price distorticons on consumer hoarding behavior, the impacts of relaxation of procurement rules in Latin America and the impact of tax amnesties in Argentina. I use laboratory experiments, or field experiments, as well as observational data to provide insights and policy implications for the real world.
+I am an applied micro-economist specializing in public economics and market interventions. My research delves into the influence of price distortions on consumer hoarding behaviors, the consequences of relaxing procurement regulations in Latin America, and the effects of tax amnesties in Argentina. I employ laboratory and field experiments, alongside observational data, to provide insights and draw policy implications for real-world scenarios.
 
 I am a Ph.D. candidate in Economics from the Interdisciplinary Center for Economic Science at George Mason University.
 
@@ -8,7 +8,7 @@ You can find my C.V. here: [[web]](https://jdramirezc.github.io/cv/cv) or [[PDF]
 
 ### WORKING PAPERS
 
-**"Testing for Idiosyncratic Treatment Effect Heterogeneity\"** [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946092)
+**"Price Distortions and Hoarding: An experiment\"** [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946092)
 
 **"At What Level Should One Cluster Standard Errors in Paired and
 Small-Strata Experiments?\"** (with Clément de Chaisemartin). Accepted by the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
