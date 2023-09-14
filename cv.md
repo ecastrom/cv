@@ -10,8 +10,7 @@ Phone: +1 (202) 938-6656
 
 ## SUMMARY
 
-Ph.D. candidate in Economics from George Mason University with a robust foundation in Applied Microeconomics, Experimental Economics, and Public Economics. Edgar possesses over 5 years of professional experience with the Inter-American Development Bank, complemented by academia roles at George Mason and Universidad de los Andes. His significant contributions in public economics research are underscored by his work on public policy.
-
+Ph.D. candidate in Economics from George Mason University with a robust foundation in Applied Microeconomics, Experimental Economics, and Public Economics. Edgar possesses over 5 years of professional experience with the Inter-American Development Bank, complemented by academia roles at George Mason and Universidad de los Andes.
 ---
 
 ## METHODS
