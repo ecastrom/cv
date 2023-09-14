@@ -4,7 +4,7 @@ I am an applied micro-economist specializing in public economics and market inte
 
 I am a Ph.D. candidate in Economics from the Interdisciplinary Center for Economic Science at George Mason University.
 
-You can find my C.V. here: [[web]](https://ecastrom.github.io/eocastrom/cv) or [[PDF]](https://drive.google.com/file/d/14Q2V_9fIHtX4CvBdCw6HVwxmuQJ7eViJ/view?usp=drive_link).
+You can find my C.V. here: [[web]](https://ecastrom.github.io/cv/cv) or [[PDF]](https://drive.google.com/file/d/14Q2V_9fIHtX4CvBdCw6HVwxmuQJ7eViJ/view?usp=drive_link).
 
 ### Job Market Paper
 
