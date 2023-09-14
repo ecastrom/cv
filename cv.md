@@ -1,10 +1,10 @@
-Here's the information formatted in markdown:
-
-```markdown
 # Edgar Orlando Castro Méndez
-
-**Call:** +1 (202) 938-6656  
-**Email:** ecastrom71@gmail.com 
+E-mail: ecastrom@gmu.edu  
+Inter-Disciplinary Center for Economic Science, George Mason University 
+3434 Washington Blvd
+Arlington, VA 22201
+United States  
+Phone: +1 (202) 938-6656  
 
 ---
 
