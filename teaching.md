@@ -1,5 +1,11 @@
 ## Teaching
 
+### George Mason University Korea
+
+* ECON 103 Principles of Microeconomics, George Mason University Korea, Spring 2024 – Fall 2024.
+* ECON 306 Intermediate Microeconomics, George Mason University Korea, Spring 2024. 
+* ECON 445 Design and Analysis of Experiments, George Mason University Korea, Fall 2024.
+
 ### George Mason University
 
 **Instructor of Record:**

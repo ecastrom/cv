@@ -40,10 +40,12 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 ## WORKING PAPERS
 
+- Castro Mendez, Edgar and Martinelli, César (2023). Price Distortions and Hoarding: An Experiment, GMU Working Paper in Economics No. 23-45. [Download](http://dx.doi.org/10.2139/ssrn.4654570)
 - Castro, E and Scartascini, C (2019), Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina. [Download](http://dx.doi.org/10.18235/0001661)
 
 ## WORK EXPERIENCE 
 
+- Postdoc Fellow/Term Assistant Professor, George Mason University Korea, Incheon, South Korea, February 2024 – Present.
 - Graduate Research Assistant, George Mason University, Virginia, August 2017 - present
 - Consultant, Inter-American Development Bank, Washington, DC, March 2022 – December 2023. (IFD/FMM)
 - Consultant, Inter-American Development Bank, Washington, DC, October 2021 – November 2021. (RES)
@@ -56,7 +58,14 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 ---
 
+
 ## TEACHING EXPERIENCE
+
+- ECON 103 Principles of Microeconomics, George Mason University Korea, Spring 2024 – Fall 2024.
+- ECON 306 Intermediate Microeconomics, George Mason University Korea, Spring 2024. 
+- ECON 445 Design and Analysis of Experiments, George Mason University Korea, Fall 2024.
+
+## OTHER TEACHING EXPERIENCE
 
 - Instructor, Graduate Math Camp, George Mason University, (Summer 2022)
 - Teaching Assistant, Game theory for Ph.D., George Mason University, (Spring 2021 – Fall 2022)
@@ -69,7 +78,6 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 ## WORK IN PROGRESS
 
-- “Hoarding and Price Restrictions” (with Cesar Martinelli)
 - "Lasting effects of China's One-Child Policy" (with Shan Gui and Binhui Xu)
 - “How does flexibilization of public procurement affect its efficiency?” (with Anastasya Yarygina Udovenko)
 - “Patronage Networks and Favoritism in Colombian Public Procurement” (with Hugo Diaz)
@@ -77,15 +85,9 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 ---
 
-## RESEARCH AND CONSULTING 
-
+## OTHER RELEVANT EXPERIENCE
 - Is the Colombian public services’ subsidy focalization system an electoral manipulation scheme? M.A. Thesis. Manuscript, Universidad de los Andes. June 2013.
 - Differentiation of Financial Institutions for Risk Deposit Insurance, Guide for methodological validation. September 2013.
-
----
-
-## OTHER RELEVANT EXPERIENCE
-
 - Design and Formulation of Electricity Demand Subsidies in Colombia [Spanish]: Background paper for the Energy Transformation Mission. By Marcela Eslava and Miguel Revolo. 2020
 - The Legacies of Civil War on Citizens’ Preferences for Democracy and the Rule of Law: Co-authored with Ana Arjona (Northwestern U.), Juan C. Cardenas (Uniandes), Ana M. Ibañez (Uniandes), and Patricia Justino (IDS).
 - Commitment to Equity Assessment (CEQ), Colombian Chapter: Authored by Nora Lustig and Marcela Meléndez, 2013.
@@ -127,9 +129,9 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 ## CONTACT
 
 Edgar Orlando Castro Méndez  
-E-mail: ecastrom@gmu.edu  
-Inter-Disciplinary Center for Economic Science, George Mason University 
-3434 Washington Blvd
-Arlington, VA 22201
-United States  
+E-mail: ecastrom@gmu.edu, ecastrom71@gmail.com  
+George Mason University Korea
+119-4 Songdomunhwa-ro, Yeonsu-gu
+Incheon, Korea 21985
+Phone: +82 (010) 9878-8662
 Phone: +1 (202) 938-6656  
