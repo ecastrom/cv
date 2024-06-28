@@ -1,6 +1,6 @@
 ## Edgar O. Castro Mendez
 
-I am a postdoc fellow at George Mason University Korea
+I am a postdoc fellow at George Mason University Korea.
 
 I am an applied micro-economist specializing in public economics and market interventions. I employ laboratory and field experiments, alongside observational data, to provide insights and draw policy implications for real-world problems.
 
