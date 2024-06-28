@@ -1,16 +1,17 @@
 # Edgar Orlando Castro Méndez
 E-mail: ecastrom@gmu.edu  
-Inter-Disciplinary Center for Economic Science, George Mason University 
-3434 Washington Blvd
-Arlington, VA 22201
-United States  
-Phone: +1 (202) 938-6656  
+Economics, George Mason University Korea 
+119-4 Songdomunhwa-ro, Yeonsu-gu
+Incheon 21985
+South Korea 
+Phone: +82 (010) 9878-8662 
+Phone: +1 (202) 938-6656   
 
 ---
 
 ## SUMMARY
 
-- Ph.D. candidate in Economics from George Mason University with a robust foundation in Applied Microeconomics, Experimental Economics, and Public Economics. Edgar possesses over 5 years of professional experience with the Inter-American Development Bank, complemented by academia roles at George Mason and Universidad de los Andes.
+- Currently working as a Postdoc Fellow and Term Assistant Professor at George Mason University Korea. He received his Ph.D. in Economics from George Mason University, with a focus on Applied Microeconomics, Experimental Economics, and Public Economics. Edgar has more than ten years of professional and academic experience, having worked at the Inter-American Development Bank and taught at George Mason University and the Universidad de los Andes. He has an established track record of research, teaching, and consulting.
 
 ## METHODS
 
