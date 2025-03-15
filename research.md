@@ -14,9 +14,9 @@ Abstract: We evaluate the effect of simplifying communications between taxpayers
 
 #### WORK IN PROGRESS
 
-**"Patronage Networks and Favoritism in Colombian Public Procurement"** (with Hugo Diaz).
+**"How does flexibilization of public procurement affect its efficiency? Evidence from the COVID pandemic in Chile"** (with Anastasya Udovenko and Matias Villalba)
 
-We study the 2015 Colombian mayoral elections, we investigate favoritism in Latin America's public procurement using a unique dataset that combines information on campaign contributors with public procurement. We compare contracts awarded to firms donating to winning candidates with those supporting losing ones. Results indicate a clear bias towards campaign contributors. Furthermore, contracts from bureaucrats appointed in the mayor's initial year show more favoritism compared to those by career officials or previous administration appointees. We follow these firms to reveal the lasting impacts of this favoritism.
+The paper examines the effects of increasing bureaucratic discretion in public procurement. During the COVID-19 pandemic, the Chilean government changed procurement regulations by increasing discretion for small contracts and temporarily lifting restrictions on use of direct deals. Increasing bureaucratic discretion can have ambiguous effects. On one hand, it can lead to rent-seeking and malpractices. On the other hand, it can reduce administrative costs and enhance efficiency. In this study, we analyze how increased discretion changed public procurement characteristics, and estimate the effect of increased discretion on the efficiency and reporting quality, using the public procurement data from Chile between 2019 and 2021. Our results show that greater discretion increased the use of direct dealing and reduced contract processing time, enabling accelerated response to the public health emergency. The impact estimates show that more discretion reduced unit prices in smaller contracts, while the effect for larger contracts is the opposite. The discretion also improved the quality of reporting and reduced the likelihood of paying an excess price. We conclude that while complex procurement regulations may address a principal-agent problem, they may impose a burden that affects the prices the government pays for goods and services in small contracts.
 
 **"How does flexibilization of public procurement affect its efficiency? Evidence from the COVID pandemic in Colombia"** (with Anastasya Udovenko)
 
@@ -25,6 +25,10 @@ During the COVID-19 pandemic, the Colombian government increased its use of the 
 **"Collective Deliberation: Theory and Experiment"** (with Mikhail Freer and Cesar Martinelli)
 
 We provide a model of deliberative collective choice. In this setting, players start endowed with private information (evidence) about the uncertain state of the world. Players' payoffs depend on whether the collective choice matches the state of the world. The game consists of two stages: deliberation game and voting. An efficient outcome, in this case, is one where the collective choice is the same as one if all the evidence has been disclosed. We show that rational players always attain efficient outcomes in this game. However, if players are cursed, efficiency cannot be guaranteed. Moreover, for the cursed players, increasing the amount of information present may reduce the efficiency. We put these theoretical results to the test in the laboratory experiment.
+
+**"Patronage Networks and Favoritism in Colombian Public Procurement"** (with Hugo Diaz).
+
+We study the 2015 Colombian mayoral elections, we investigate favoritism in Latin America's public procurement using a unique dataset that combines information on campaign contributors with public procurement. We compare contracts awarded to firms donating to winning candidates with those supporting losing ones. Results indicate a clear bias towards campaign contributors. Furthermore, contracts from bureaucrats appointed in the mayor's initial year show more favoritism compared to those by career officials or previous administration appointees. We follow these firms to reveal the lasting impacts of this favoritism.
 
 **"Long-lasting behavioral effects of China's One-Child Policy"** (with Shan Gui and Binhui Xu)
 
