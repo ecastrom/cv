@@ -25,13 +25,13 @@
   *Summer 2022*
 
 **Graduate Teaching Assistant**
-- **Game Theory for Ph.D.**  
+- **ECON 886: Experimental economics II (game theory)**  
   *Spring 2021 – Fall 2022*
 
-- **Applied Econometrics**  
+- **ECON 535: Applied Econometrics**  
   *Spring 2021*
 
-- **Microeconomics for Graduates**  
+- **ECON 811: Microeconomic Theory II**  
   *Spring 2020, Spring 2021*
 
 ### Universidad de los Andes, Bogotá, Colombia
