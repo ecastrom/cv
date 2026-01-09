@@ -1,14 +1,19 @@
 ## Teaching Experience
 
+### Instituto Tecnológico de Monterrey
+
+- **EO 4024: Precios y Comportamiento de los Agentes**  
+  *Spring 2026 (for graduates)* 
+
 ### George Mason University Korea
 - **ECON 103: Principles of Microeconomics**  
-  *Spring 2024 – Present*
+  *Spring 2024 – Spring 2025*
 
 - **ECON 104: Principles of Macroeconomics**  
   *Fall 2024*
 
 - **ECON 306: Intermediate Microeconomics**  
-  *Spring 2024 – Present*
+  *Spring 2024 – Spring 2025*
 
 - **ECON 311: Intermediate Macroeconomics**  
   *Fall 2024*

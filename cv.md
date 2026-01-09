@@ -1,17 +1,16 @@
 # **Edgar Orlando Castro Méndez**
-**E-mail:** ecastrom@gmu.edu  
+**E-mail:** ecastrom@tec.mx  
 **Economics, George Mason University Korea**  
-119-4 Songdomunhwa-ro, Yeonsu-gu  
-Incheon 21985  
-South Korea  
-**Phone:** +82 (010) 9878-8662  
-**Phone:** +1 (202) 938-6656  
+E-mail: ecastrom@tec.mx
+Tecnologico de Monterrey
+Monterrey, Nuevo Leon, Mexico
+**Phone:** +52 (81) 3102-4896 
 
 ---
 
 ## SUMMARY
 
-Currently working as a Postdoc Fellow and Term Assistant Professor at George Mason University Korea. He received his Ph.D. in Economics from George Mason University, with a focus on Applied Microeconomics, Experimental Economics, and Public Economics. Edgar has more than ten years of professional and academic experience, having worked at the Inter-American Development Bank and taught at George Mason University and the Universidad de los Andes. He has an established track record of research, teaching, and consulting.
+Currently working as a Postdoc Fellow and Adjunct Professor at Tecnologico de Monterrey. He received his Ph.D. in Economics from George Mason University, with a focus on Applied Microeconomics, Experimental Economics, and Public Economics. Edgar has more than ten years of professional and academic experience, having worked at the Inter-American Development Bank and taught at George Mason University and the Universidad de los Andes. He has an established track record of research, teaching, and consulting.
 
 ## METHODS
 
@@ -21,7 +20,7 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 ## EDUCATION 
 
-- PhD in Economics, George Mason University, Fairfax, Virginia, (Expected: Spring 2024)
+- PhD in Economics, George Mason University, Fairfax, Virginia, December 2023
 - M.A in Economics, Universidad de los Andes, Bogotá, Colombia, August 2013.
 - B.A in Economics, Universidad de los Andes, Bogotá, Colombia, March 2012.
 
@@ -41,12 +40,14 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 ## WORKING PAPERS
 
+- Castro Mendez, Edgar; Yarygina-Udovenko, Anastasiya and Villalba Ortega, Gabriel (2025). Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19, IDB Working Paper Series.
 - Castro Mendez, Edgar and Martinelli, César (2023). Price Distortions and Hoarding: An Experiment, GMU Working Paper in Economics No. 23-45. [Download](http://dx.doi.org/10.2139/ssrn.4654570)
 - Castro, E and Scartascini, C (2019), Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina. [Download](http://dx.doi.org/10.18235/0001661)
 
 ## WORK EXPERIENCE 
 
-- Postdoc Fellow/Term Assistant Professor, George Mason University Korea, Incheon, South Korea, February 2024 – Present.
+- Postdoc fellow and Adjuct Professor, Instituto Tecnologico de Monterrey, Monterrey, Nuevo Leon, México, October 2025 – Present.
+- Postdoc Fellow/Term Assistant Professor, George Mason University Korea, Incheon, South Korea, February 2024 – June 2025.
 - Graduate Research Assistant, George Mason University, Virginia, August 2017 - present
 - Consultant, Inter-American Development Bank, Washington, DC, March 2022 – December 2023. (IFD/FMM)
 - Consultant, Inter-American Development Bank, Washington, DC, October 2021 – November 2021. (RES)
@@ -59,11 +60,11 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 
 ---
 
-
 ## TEACHING EXPERIENCE
 
-- ECON 103 Principles of Microeconomics, George Mason University Korea, Spring 2024 – Fall 2024.
-- ECON 306 Intermediate Microeconomics, George Mason University Korea, Spring 2024. 
+- ECON 103 Principles of Microeconomics, George Mason University Korea, Spring 2024 – Spring 2025.
+- ECON 104 Principles of Macroeconomics, George Mason University Korea, Fall 2024.
+- ECON 306 Intermediate Microeconomics, George Mason University Korea, Spring 2024 - Spring 2025. 
 - ECON 445 Design and Analysis of Experiments, George Mason University Korea, Fall 2024.
 
 ## OTHER TEACHING EXPERIENCE
@@ -80,7 +81,6 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 ## WORK IN PROGRESS
 
 - "Lasting effects of China's One-Child Policy" (with Shan Gui and Binhui Xu)
-- “How does flexibilization of public procurement affect its efficiency?” (with Anastasya Yarygina Udovenko)
 - “Patronage Networks and Favoritism in Colombian Public Procurement” (with Hugo Diaz)
 - “Collective Deliberation: Theory and Experiment” (with Mikhail Freer and Cesar Martinelli)
 
@@ -130,9 +130,8 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 ## CONTACT
 
 Edgar Orlando Castro Méndez  
-E-mail: ecastrom@gmu.edu, ecastrom71@gmail.com  
-George Mason University Korea
-119-4 Songdomunhwa-ro, Yeonsu-gu
-Incheon, Korea 21985
-Phone: +82 (010) 9878-8662
+E-mail: ecastrom@tec.mx, ecastrom71@gmail.com  
+Tecnologico de Monterrey
+Monterrey, Nuevo Leon, Mexico
+Phone: +52 (81) 3102-4896
 Phone: +1 (202) 938-6656  
