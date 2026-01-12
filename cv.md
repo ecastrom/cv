@@ -1,8 +1,8 @@
 # **Edgar Orlando Castro Méndez**
 **E-mail:** ecastrom@tec.mx  
-**Economics, George Mason University Korea**  
+**Economics, Tecnologico de Monterrey**  
 E-mail: ecastrom@tec.mx
-Tecnologico de Monterrey
+
 Monterrey, Nuevo Leon, Mexico
 **Phone:** +52 (81) 3102-4896 
 
@@ -132,6 +132,6 @@ Advanced applied econometrics, experimental design, causal inference, impact eva
 Edgar Orlando Castro Méndez  
 E-mail: ecastrom@tec.mx, ecastrom71@gmail.com  
 Tecnologico de Monterrey
-Monterrey, Nuevo Leon, Mexico
+Nuevo Leon, Mexico
 Phone: +52 (81) 3102-4896
 Phone: +1 (202) 938-6656  
