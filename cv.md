@@ -9,7 +9,7 @@ Monterrey, Nuevo León, Mexico
 
 ## SUMMARY
 
-Currently a Postdoctoral Fellow and Adjunct Professor at Tecnológico de Monterrey. He received his Ph.D. in Economics from George Mason University, with a focus on Applied Microeconomics, Experimental Economics, and Public Economics. Edgar has more than ten years of academic and professional experience, including research and consulting roles at the Inter-American Development Bank, and teaching appointments at George Mason University Korea and Universidad de los Andes. His work combines applied microeconomic theory, experimental methods, and policy-relevant empirical analysis.
+Currently a Postdoctoral Fellow and Adjunct Professor at Tecnológico de Monterrey. He received his Ph.D. in Economics from George Mason University, with a focus on Applied Microeconomics, Experimental Economics, and Public Economics. Edgar has more than ten years of academic and professional experience, including research and consulting roles at the Inter-American Development Bank, and teaching appointments at George Mason University Korea and Tecnologico de Monterrey. His work combines applied microeconomic theory, experimental methods, and policy-relevant empirical analysis.
 
 ---
 
