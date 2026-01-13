@@ -55,19 +55,25 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 
 ---
 
-## WORK EXPERIENCE 
+## WORK EXPERIENCE
 
-- Postdoctoral Fellow and Adjunct Professor, Tecnológico de Monterrey, Monterrey, Nuevo León, Mexico, October 2025 – Present  
+### Academic Appointments
+
+- Postdoctoral Fellow / Adjunct Professor, Tecnológico de Monterrey, Nuevo León, Mexico, October 2025 – Present  
 - Postdoctoral Fellow / Term Assistant Professor, George Mason University Korea, Incheon, South Korea, February 2024 – June 2025  
+
+### Research and Professional Experience
+
 - Graduate Research Assistant, George Mason University, Fairfax, Virginia, August 2017 – December 2023  
-- Consultant, Inter-American Development Bank, Washington, DC, March 2022 – December 2022 (IFD/FMM)  
-- Consultant, Inter-American Development Bank, Washington, DC, October 2021 – November 2021 (RES)  
-- Pre-doctoral Fellow, CESED, Universidad de los Andes, Bogotá, Colombia, August 2018 – May 2019  
-- Consultant, Inter-American Development Bank, Washington, DC, May 2018 – October 2018  
-- Research Fellow, Inter-American Development Bank, Washington, DC, September 2014 – August 2017 (RES)  
+- Consultant, Inter-American Development Bank, Washington, DC, March 2022 – December 2022 (PEG contract IFD/FMM-0007)  
+- Consultant, Inter-American Development Bank, Washington, DC, October 2021 – November 2021 (PEG contract RES-0006)  
+- Pre-Doctoral Fellow, CESED, Universidad de los Andes, Bogotá, Colombia, August 2018 – May 2019  
+- Consultant, Inter-American Development Bank, Washington, DC, May 2018 – October 2018 (PEG contract RES-0005)  
+- Research Fellow, Inter-American Development Bank, Washington, DC, September 2014 – August 2017  
 - External Consultant, SENA, Bogotá, Colombia, January 2014 – July 2014  
 - Researcher, ECON ESTUDIO, Bogotá, Colombia, December 2011 – January 2014  
 - Research Intern, ECON ESTUDIO, Bogotá, Colombia, January 2011 – August 2011  
+
 
 ---
 
