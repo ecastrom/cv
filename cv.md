@@ -133,6 +133,17 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 
 ---
 
+## PROFESSIONAL ACTIVITIES
+
+- Co-advisor: University of Pacific, Lima, Peru. Advisee: Matias Villalba, 2023
+- Referee for: European Economic Review, 2024, 2025
+- Referee for: Games and Economic Behavior, 2021, 2022, 2023, 2025
+- Referee for: Journal of Public Economics, 2022
+- Referee for: Journal of Economic Behavior & Organization, 2022
+- Participant at: ISEO Summer School of Economics, Iseo, Brescia, Italy, 2023
+
+---
+
 ## OTHERS
 
 - Stata, R, Python, oTree  
