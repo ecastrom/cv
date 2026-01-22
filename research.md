@@ -15,7 +15,8 @@ My research studies how incentives, information, and beliefs shape individual be
 
 ### Working Papers
 
-**Price Distortions and Hoarding: An Experiment**  
+**Price Distortions and Hoarding: An Experiment** 
+(with Cesar Martinelli)  
 [Link](https://drive.google.com/file/d/14KfuyY0jWgYsuD6m6OXHnyTfOOa-PAyA/view?usp=drive_link)
 
 **Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19**  
