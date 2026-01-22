@@ -101,10 +101,24 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 
 ## WORK IN PROGRESS
 
-- *Hoarding and Price Restrictions* (with César Martinelli)  
-- *How Does Flexibilization of Public Procurement Affect Its Efficiency?* (with Anastasiya Yarygina-Udovenko)  
-- *Patronage Networks and Favoritism in Colombian Public Procurement* (with Hugo Díaz)  
-- *Collective Deliberation: Theory and Experiment* (with Mikhail Freer and César Martinelli)  
+- *Beliefs About Price Controls and Zero-Sum Thinking*  
+  (with Lianet Farfan, Stanislao Maldonado and Santiago Sautua)
+
+- *Fairness, Misinformation, and Tax Policy Preferences*  
+  (with Stanislao Maldonado)
+
+- *DEI Policies and Willingness to Compete for Elite College Entrance*  
+  (with Stanislao Maldonado)
+
+- *How Does Flexibilization of Public Procurement Affect Its Efficiency?*  
+  (with Anastasiya Yarygina-Udovenko)
+
+- *Patronage Networks and Favoritism in Colombian Public Procurement*  
+  (with Hugo Díaz)
+
+- *Collective Deliberation: Theory and Experiment*  
+  (with Mikhail Freer and César Martinelli)
+
 
 ---
 

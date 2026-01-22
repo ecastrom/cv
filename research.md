@@ -1,40 +1,44 @@
 ## Research
 
-#### JOB MARKET PAPER
+My research studies how incentives, information, and beliefs shape individual behavior and public policy outcomes. I focus on settings where prices, rules, or information are distorted, and where behavioral responses play a central role in the effectiveness of policy design. Methodologically, my work combines experimental and causal inference methods, including field and natural experiments, and the analysis of administrative data.
 
-**"Price Distortions and Hoarding: An experiment.\"** [(Link here)](https://drive.google.com/file/d/14KfuyY0jWgYsuD6m6OXHnyTfOOa-PAyA/view?usp=drive_link)
+---
 
-Abstract: In a two-period model featuring durable goods, we explore the implications of anticipated price distortions in the context of available storage. Rationing serves as our primary mechanism to rationalize hoarding behavior. We empirically validate our model using three experimental setups: i) a free market without hoarding incentives, ii) a price-capped market where hoarding is anticipated due to potential rationing in the second period, and iii) a market with an impending supply shock, where hoarding is expected but not rationing. Our experimental results reveal a prevalent trend of excessive hoarding among participants, leading to market inefficiencies greater than our theoretical predictions.
+### Publications
 
-#### WORKING PAPERS
+**Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina**  
+(with Carlos Scartascini)  
+*Inter-American Development Bank Working Paper*  
+[https://doi.org/10.18235/0001661](http://dx.doi.org/10.18235/0001661)
 
-**"Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina\"** (with Carlos Scartascini). . [(Link here)](http://dx.doi.org/10.18235/0001661)
+---
 
-Abstract: We evaluate the effect of simplifying communications between taxpayers and the government in the context of a field experiment during a tax amnesty in the city of Santa Fe (Argentina). Tax amnesties are advertised to delinquent taxpayers through direct communication. In the intervention, we redesign the communication notices sent to the taxpayers to evaluate whether increasing salience and reducing cognitive costs increase the probability that taxpayers pay attention to the message and understand better the benefits of tax amnesty. We randomize more than 54,000 taxpayers. A group of taxpayers receives the traditional messages. The treatment groups receive redesigned communications. The experiment induces an information shock in the neighborhoods around treated properties that we use to evaluate the impact of the improved messages on compliant taxpayers (those who had no debts). Our results show that the messages increase the probability that taxpayers will enter the tax amnesty. The amount of tax arrears collected in the treatment groups is up to 8 percent higher than in the control group. The spillover effect over compliant taxpayers is negative and significant. When the tax amnesty becomes more noticeable may increase the collection of past debt, but it could also generate negative incentives for tax compliance in the overall population.
+### Working Papers
 
+**Price Distortions and Hoarding: An Experiment**  
+[Link](https://drive.google.com/file/d/14KfuyY0jWgYsuD6m6OXHnyTfOOa-PAyA/view?usp=drive_link)
 
-**"Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19"** (with Anastasya Udovenko and Matias Villalba)
+**Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19**  
+(with Anastasiya Udovenko and Matías Villalba)
 
-The paper examines the effects of increasing bureaucratic discretion in public procurement. During the COVID-19 pandemic, the Chilean government changed procurement regulations by increasing discretion for small contracts and temporarily lifting restrictions on use of direct deals. Increasing bureaucratic discretion can have ambiguous effects. On one hand, it can lead to rent-seeking and malpractices. On the other hand, it can reduce administrative costs and enhance efficiency. In this study, we analyze how increased discretion changed public procurement characteristics, and estimate the effect of increased discretion on the efficiency and reporting quality, using the public procurement data from Chile between 2019 and 2021. Our results show that greater discretion increased the use of direct dealing and reduced contract processing time, enabling accelerated response to the public health emergency. The impact estimates show that more discretion reduced unit prices in smaller contracts, while the effect for larger contracts is the opposite. The discretion also improved the quality of reporting and reduced the likelihood of paying an excess price. We conclude that while complex procurement regulations may address a principal-agent problem, they may impose a burden that affects the prices the government pays for goods and services in small contracts.
+---
 
-#### WORK IN PROGRESS
+### Work in Progress
 
-**"How does flexibilization of public procurement affect its efficiency? Evidence from the COVID pandemic in Colombia"** (with Anastasya Udovenko)
+- *Beliefs About Price Controls and Zero-Sum Thinking*  
+  (with Lianet Farfan, [Stanislao Maldonado](https://www.stanislaomaldonado.org/), and Santiago Sautua)
 
-During the COVID-19 pandemic, the Colombian government increased its use of the ``direct deal" to purchase goods and services without public auctions. This policy aimed to speed up emergency responses. However, concerns about transparency and corruption emerged, especially since unit prices are often not disclosed in Colombian procurement processes. We use a Large Language Model (LLM) to extract the unit price information for a basket of 26 standardized goods from over 35,000 procurement contracts. Our findings are mixed: some products experienced price increases, while others saw reductions. Additionally, our data showed increased transparency, as evidenced by the higher incidence of price reporting during the flexibilization period. This research challenges the prevailing assumptions about the efficiency of complex procurement systems, suggesting that simpler methods might not be as costly as believed.
+- *Fairness, Misinformation, and Tax Policy Preferences*  
+  (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/))
 
-**"Collective Deliberation: Theory and Experiment"** (with Mikhail Freer and Cesar Martinelli)
+- *DEI Policies and Willingness to Compete for Elite College Entrance*  
+  (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/))
 
-We provide a model of deliberative collective choice. In this setting, players start endowed with private information (evidence) about the uncertain state of the world. Players' payoffs depend on whether the collective choice matches the state of the world. The game consists of two stages: deliberation game and voting. An efficient outcome, in this case, is one where the collective choice is the same as one if all the evidence has been disclosed. We show that rational players always attain efficient outcomes in this game. However, if players are cursed, efficiency cannot be guaranteed. Moreover, for the cursed players, increasing the amount of information present may reduce the efficiency. We put these theoretical results to the test in the laboratory experiment.
+- *How Does Flexibilization of Public Procurement Affect Its Efficiency?*  
+  (with Anastasiya Yarygina-Udovenko)
 
-**"Patronage Networks and Favoritism in Colombian Public Procurement"** (with Hugo Diaz).
+- *Patronage Networks and Favoritism in Colombian Public Procurement*  
+  (with Hugo Díaz)
 
-We study the 2015 Colombian mayoral elections, we investigate favoritism in Latin America's public procurement using a unique dataset that combines information on campaign contributors with public procurement. We compare contracts awarded to firms donating to winning candidates with those supporting losing ones. Results indicate a clear bias towards campaign contributors. Furthermore, contracts from bureaucrats appointed in the mayor's initial year show more favoritism compared to those by career officials or previous administration appointees. We follow these firms to reveal the lasting impacts of this favoritism.
-
-**"Long-lasting behavioral effects of China's One-Child Policy"** (with Shan Gui and Binhui Xu)
-
-Previous research indicates that children born under China's One-Child Policy (OCP) are often less trusting, less trustworthy, less competitive, and generally less pro-social. As these children of the OCP begin to start their own families, and with China's recent relaxation of the OCP to permit up to two children, it becomes crucial to understand the generational impacts. We aim to conduct a series of economic experiments to assess whether these pro-social traits are passed down to the offspring of parents born during the OCP era. This will allow us to determine if the observed behavioral tendencies are reversible in the succeeding generation or if they persist as inheritable traits. Middle school and high school students will participate in these experiments. The outcomes will hold significant insights for shaping education policy.
-
-**“Exploring the Efficacy of AI Authorship Disclosure and Fact-Checking in Mitigating Risks to Democracies”** (with Cesar Martinelli and Roulong Xiao)
-
-we are working in the grant proposal.
+- *Collective Deliberation: Theory and Experiment*  
+  (with Mikhail Freer and César Martinelli)
