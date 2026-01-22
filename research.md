@@ -15,14 +15,22 @@ My research studies how incentives, information, and beliefs shape individual be
 
 ### Working Papers
 
-**Price Distortions and Hoarding: An Experiment** 
-(with Cesar Martinelli)  
-[Link](https://drive.google.com/file/d/14KfuyY0jWgYsuD6m6OXHnyTfOOa-PAyA/view?usp=drive_link)
+*Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19* 
+(with Anastasiya Yarygina-Udovenko and Gabriel Villalba Ortega)  
+*Inter-American Development Bank Working Paper Series* (2026)  
 
-**Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19**  
-(with Anastasiya Udovenko and Matías Villalba)
 
----
+*Price Distortions and Hoarding: An Experiment*  
+(with César Martinelli)  
+*GMU Working Paper in Economics* No. 23-45 (2023)  
+[SSRN](https://ssrn.com/abstract=4654570) · [DOI](http://dx.doi.org/10.2139/ssrn.4654570)
+
+
+*Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina*  
+(with Carlos Scartascini)  
+*IDB Discussion Paper* No. IDB-DP-665 (2019)  
+[Link](https://publications.iadb.org/en/imperfect-attention-public-policy-field-experiment-during-tax-amnesty-argentina)
+
 
 ### Work in Progress
 
