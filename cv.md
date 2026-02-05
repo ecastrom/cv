@@ -143,7 +143,7 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 - Young Scholar Program Award, Association of Private Enterprise Education, 2022  
 - Young Scholar Program Award, Association of Private Enterprise Education, 2021  
 - Undergraduate Full Scholarship “Quiero Estudiar,” Universidad de los Andes, 2007 – 2011  
-- Best National College Admission Test Score (ICFES), ranked first nationwide, 2006  
+- Best National College Admission Test Score (ICFES), ranked 1/1000 nationwide, 2006  
 
 ---
 
