@@ -38,7 +38,7 @@ My research studies how incentives, information, and beliefs shape individual be
   (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/) and Cesar Martinelli)
 
 - *Beliefs About Price Controls and Zero-Sum Thinking*  
-  (with Lianet Farfan, [Stanislao Maldonado](https://www.stanislaomaldonado.org/), and Santiago Sautua)
+  (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/), Santiago Sautua, Joana Chapa and Lianet Farfan)
 
 - *Fairness, Misinformation, and Tax Policy Preferences*  
   (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/))
