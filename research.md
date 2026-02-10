@@ -17,7 +17,7 @@ My research studies how incentives, information, and beliefs shape individual be
 
 *Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19* 
 (with Anastasiya Yarygina-Udovenko and Gabriel Villalba Ortega)  
-*Inter-American Development Bank Working Paper Series* (2026)  
+*Inter-American Development Bank Working Paper Series* (2026) [DOI](https://publications.iadb.org/en/discretionary-procurement-flexibilization-efficiency-and-rent-seeking-evidence-chile-during-covid) 
 
 
 *Price Distortions and Hoarding: An Experiment*  
@@ -34,13 +34,13 @@ My research studies how incentives, information, and beliefs shape individual be
 
 ### Work in Progress
 
+- *Affirmative Action, Sorting, and Efficiency in Competition for Selective Colleges*  
+  (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/) and Cesar Martinelli)
+
 - *Beliefs About Price Controls and Zero-Sum Thinking*  
   (with Lianet Farfan, [Stanislao Maldonado](https://www.stanislaomaldonado.org/), and Santiago Sautua)
 
 - *Fairness, Misinformation, and Tax Policy Preferences*  
-  (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/))
-
-- *DEI Policies and Willingness to Compete for Elite College Entrance*  
   (with [Stanislao Maldonado](https://www.stanislaomaldonado.org/))
 
 - *How Does Flexibilization of Public Procurement Affect Its Efficiency?*  
