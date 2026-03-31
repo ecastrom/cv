@@ -124,6 +124,8 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 
 ## CONFERENCE PRESENTATIONS
 
+- Academics Against Corruption in the Americas, Quito Ecuador, 2026
+- Public Choice Annual Meeting, San Antonio, TX, 2026
 - LACEA Annual Meeting, Recife, Brazil, 2025  
 - Workshop of Behavioral and Experimental Economics, SUFE, Shanghai, China, 2025  
 - Association of Private Enterprise Education Annual Meeting, Antigua, Guatemala, 2025  
