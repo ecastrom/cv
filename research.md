@@ -6,10 +6,11 @@ My research studies how incentives, information, and beliefs shape individual be
 
 ### Publications
 
-**Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina**  
-(with Carlos Scartascini)  
-*Inter-American Development Bank Working Paper*  
-[https://doi.org/10.18235/0001661](http://dx.doi.org/10.18235/0001661)
+**Public Good Provision and Property Tax Compliance: Evidence from a Natural Experiment**  
+(with Paul Carrillo and Carlos Scartascini)  
+*Journal of Public Economics*  
+[https://doi.org/10.1016/j.jpubeco.2021.104422](https://doi.org/10.1016/j.jpubeco.2021.104422)
+
 
 ---
 
