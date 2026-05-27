@@ -3,7 +3,7 @@
 **Economics, Tecnológico de Monterrey**
 
 Monterrey, Nuevo León, Mexico  
-**Phone:** +52 (81) 3102-4896  
+
 
 ---
 
@@ -45,7 +45,7 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 
 ## WORKING PAPERS
 
-- Castro Méndez, Edgar; Yarygina-Udovenko, Anastasiya; and Villalba Ortega, Gabriel (2026). *Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19.* IDB Working Paper Series.
+- Castro Méndez, Edgar; Yarygina-Udovenko, Anastasiya; and Villalba Ortega, Gabriel (2026). *Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19.* IDB Working Paper Series. [(download)](https://publications.iadb.org/en/discretionary-procurement-flexibilization-efficiency-and-rent-seeking-evidence-chile-during-covid) 
 
 - Castro Méndez, Edgar and Martinelli, César (2023). *Price Distortions and Hoarding: An Experiment.* GMU Working Paper in Economics No. 23-45.  
   [Download](http://dx.doi.org/10.2139/ssrn.4654570)
