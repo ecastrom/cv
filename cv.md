@@ -48,10 +48,10 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 - Castro Méndez, Edgar; Yarygina-Udovenko, Anastasiya; and Villalba Ortega, Gabriel (2026). *Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19.* IDB Working Paper Series. [(download)](https://publications.iadb.org/en/discretionary-procurement-flexibilization-efficiency-and-rent-seeking-evidence-chile-during-covid) 
 
 - Castro Méndez, Edgar and Martinelli, César (2023). *Price Distortions and Hoarding: An Experiment.* GMU Working Paper in Economics No. 23-45.  
-  [Download](http://dx.doi.org/10.2139/ssrn.4654570)
+  [(download)](http://dx.doi.org/10.2139/ssrn.4654570)
 
 - Castro, E. and Scartascini, C. (2019). *Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina.* IDB Discussion Paper No. 665.  
-  [Download](http://dx.doi.org/10.18235/0001661)
+  [(download)](http://dx.doi.org/10.18235/0001661)
 
 ---
 
