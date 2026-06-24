@@ -9,7 +9,7 @@ Monterrey, Nuevo León, Mexico
 
 ## SUMMARY
 
-Currently a Postdoctoral Fellow and Adjunct Professor at Tecnológico de Monterrey. He received his Ph.D. in Economics from George Mason University, with a focus on Applied Microeconomics, Experimental Economics, and Public Economics. Edgar has more than ten years of academic and professional experience, including research and consulting roles at the Inter-American Development Bank, and teaching appointments at George Mason University Korea and Tecnologico de Monterrey. His work combines applied microeconomic theory, experimental methods, and policy-relevant empirical analysis.
+Assistant Professor at Tecnológico de Monterrey. He received his Ph.D. in Economics from George Mason University, with a focus on Applied Microeconomics, Experimental Economics, and Public Economics. Edgar has more than ten years of academic and professional experience, including research and consulting roles at the Inter-American Development Bank, and teaching appointments at George Mason University Korea and Tecnologico de Monterrey. His work combines applied microeconomic theory, experimental methods, and policy-relevant empirical analysis.
 
 ---
 
@@ -59,7 +59,8 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 
 ### Academic Appointments
 
-- Postdoctoral Fellow / Adjunct Professor, Tecnológico de Monterrey, Nuevo León, Mexico, October 2025 – Present  
+- Assistant Professor (Profesor de planta), Tecnológico de Monterrey, Nuevo León, Mexico, July 2026 – Present 
+- Postdoctoral Fellow / Adjunct Professor, Tecnológico de Monterrey, Nuevo León, Mexico, October 2025 – June 2026  
 - Postdoctoral Fellow / Term Assistant Professor, George Mason University Korea, Incheon, South Korea, February 2024 – June 2025  
 
 ### Research and Professional Experience
@@ -102,15 +103,15 @@ Applied econometrics, experimental design, causal inference, impact evaluation, 
 ## WORK IN PROGRESS
 
 - *Beliefs About Price Controls and Zero-Sum Thinking*  
-  (with Lianet Farfan, Stanislao Maldonado and Santiago Sautua)
+  (with Stanislao Maldonado and Santiago Sautua)
 
 - *Fairness, Misinformation, and Tax Policy Preferences*  
   (with Stanislao Maldonado)
 
-- *DEI Policies and Willingness to Compete for Elite College Entrance*  
-  (with Stanislao Maldonado)
+- *Affirmative Action, Sorting, and Efficiency in Competition for Selective Colleges*  
+  (with Stanislao Maldonado and Cesar Martinelli)
 
-- *How Does Flexibilization of Public Procurement Affect Its Efficiency?*  
+- *Discretionality of Public Procurement and Efficiency: Colombia*  
   (with Anastasiya Yarygina-Udovenko)
 
 - *Patronage Networks and Favoritism in Colombian Public Procurement*  

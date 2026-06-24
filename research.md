@@ -23,7 +23,7 @@ My research studies how incentives, information, and beliefs shape individual be
 
 *Price Distortions and Hoarding: An Experiment*  
 (with César Martinelli)  
-*GMU Working Paper in Economics* No. 23-45 (2023)  
+*GMU Working Paper in Economics* No. 23-45 (2023)  [R&R at JEBO]
 [SSRN](https://ssrn.com/abstract=4654570) · [DOI](http://dx.doi.org/10.2139/ssrn.4654570)
 
 

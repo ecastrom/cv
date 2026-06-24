@@ -1,6 +1,6 @@
 ## Edgar O. Castro Mendez
 
-I am a postdoc fellow and Adjunct Professor at Tecnologico de Monterrey.
+I am an Assistant Professor of Economics at the School of Social Sciences and Government of Tecnologico de Monterrey, Campus Monterrey, in Mexico.
 
 I am an applied micro-economist specializing in public economics and market interventions. I employ laboratory and field experiments, alongside observational data, to provide insights and draw policy implications for real-world problems.
 
