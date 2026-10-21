@@ -17,8 +17,11 @@
 6. `main.md`: wording of the current post, link to the new PDF. New `index.html` sends `/cv/` to the home page.
 7. New PDF CV built from `cv.md`: `python tools/build_cv.py` → `assets/Castro_CV.pdf` (XeLaTeX, XCharter, 3 pages). The PDF link now points here instead of Google Drive.
 
+8. Committed and pushed (ab7abe3); verified live on GitHub Pages.
+9. Added Fall 2026 Tec courses "De micro incentivos a macro resultados" and "Economía conductual" to the teaching page and the CV (English names on the CV, Spanish in parentheses). No course codes yet: Experiencia21 needs a Tec login.
+
 ### Current state
-Everything is built and previewed locally (desktop, phone, dark mode). **Nothing committed or pushed yet.** Open questions are listed in SESSION_NOTES.md.
+Site live at ecastrom.github.io/cv. Open questions are listed in SESSION_NOTES.md.
 
 ### TO RESUME WORK
 - Edit `cv.md` (conventions are in SESSION_NOTES.md), then run `python tools/build_cv.py` to refresh the PDF.

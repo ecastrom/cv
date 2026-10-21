@@ -42,11 +42,11 @@ Since 2026-10-20 there is no theme: a custom layout plus a stylesheet.
 4. ICFES wording "ranked 1/1000 nationwide" kept verbatim; meaning unclear.
 5. "University of Pacific" changed to "Universidad del Pacífico"; Matias → Matías. Confirm.
 6. EO 4024: "(for graduates)" dropped from the teaching page. Restore if it is a graduate course.
-7. No new content was supplied (Fall 2026 teaching, new talks, etc.).
+7. Fall 2026 courses added without codes ("De micro incentivos a macro resultados", "Economía conductual"); the English CV names are my translations. Need: codes, level, and whether EO 4024 continues. Experiencia21 (Canvas) needs the PI's own login; never enter credentials.
 8. US phone +1 (202) still in the PDF; is it still in use?
 
 ## Pending
-- PI to answer the questions above; then commit and push (nothing committed yet as of 2026-10-20).
+- PI to answer the questions above. The site has been live since 2026-10-20 (commit ab7abe3 and later).
 
 ## Resuming
 Read this file and CHANGELOG.md. Preview without Jekyll: a rough Python renderer (python-markdown + layout substitution) served over http works in the browser pane; GitHub's kramdown adds curly quotes that the preview lacks.
