@@ -1,4 +1,12 @@
-theme: jekyll-theme-minimal
-title: <a href="https://ecastrom.github.io/cv/main">Edgar O. Castro Mendez</a>
-logo: "PhotoID.png"
-description: <p> <a href="mailto:ecastrom@tec.mx">Email</a> | <a href="https://ecastrom.github.io/cv/cv">CV</a> | <a href="https://ecastrom.github.io/cv/research">Research</a> | <a href="https://ecastrom.github.io/cv/teaching">Teaching</a> <br> Avenida Eugenio Garza Sada Sur No. 2501, Colonia Tecnológico, C.P. 64700  </p>
+title: Edgar O. Castro Méndez
+email: ecastrom@tec.mx
+address: Tecnológico de Monterrey, Av. Eugenio Garza Sada 2501 Sur, Col. Tecnológico, 64700 Monterrey, N.L., Mexico
+
+markdown: kramdown
+
+exclude:
+  - SESSION_NOTES.md
+  - CHANGELOG.md
+  - latex/
+  - tools/
+  - PhotoID.png

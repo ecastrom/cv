@@ -1,49 +1,41 @@
-## Teaching Experience
+---
+layout: default
+title: Teaching
+---
 
-### Instituto Tecnológico de Monterrey
+# Teaching
 
-- **EO 4024: Precios y Comportamiento de los Agentes**  
-  *Spring 2026 (for graduates)* 
+## Tecnológico de Monterrey
 
-### George Mason University Korea
-- **ECON 103: Principles of Microeconomics**  
-  *Spring 2024 – Spring 2025*
+- <span class="date">Spring 2026</span> EO 4024 Precios y Comportamiento de los Agentes
 
-- **ECON 104: Principles of Macroeconomics**  
-  *Fall 2024*
+## George Mason University Korea
 
-- **ECON 306: Intermediate Microeconomics**  
-  *Spring 2024 – Spring 2025*
+- <span class="date">Spring 2024 – Spring 2025</span> ECON 103 Principles of Microeconomics
+- <span class="date">Spring 2024 – Spring 2025</span> ECON 306 Intermediate Microeconomics
+- <span class="date">Spring 2025</span> ECON 495 Policy Impact Evaluation
+- <span class="date">Fall 2024</span> ECON 104 Principles of Macroeconomics
+- <span class="date">Fall 2024</span> ECON 311 Intermediate Macroeconomics
+- <span class="date">Fall 2024</span> ECON 445 Design and Analysis of Experiments
 
-- **ECON 311: Intermediate Macroeconomics**  
-  *Fall 2024*
+## George Mason University
 
-- **ECON 445: Design and Analysis of Experiments**  
-  *Fall 2024*
+Instructor
 
-- **ECON 495: Policy Impact Evaluation**  
-  *Spring 2025*
+- <span class="date">Summer 2022</span> Graduate Math Camp
 
-### George Mason University
-**Instructor**
-- **Graduate Math Camp**  
-  *Summer 2022*
+Graduate Teaching Assistant
 
-**Graduate Teaching Assistant**
-- **ECON 886: Experimental economics II (game theory)**  
-  *Spring 2021 – Fall 2022*
+- <span class="date">Spring 2021 – Fall 2022</span> ECON 886 Experimental Economics II (game theory)
+- <span class="date">Spring 2021</span> ECON 535 Applied Econometrics
+- <span class="date">Spring 2020, Spring 2021</span> ECON 811 Microeconomic Theory II
 
-- **ECON 535: Applied Econometrics**  
-  *Spring 2021*
+## Universidad de los Andes
 
-- **ECON 811: Microeconomic Theory II**  
-  *Spring 2020, Spring 2021*
+Lecturer
 
-### Universidad de los Andes, Bogotá, Colombia
-**Lecturer**
-- **Introduction to Microeconomics for Undergraduates**  
-  *Fall 2013, Spring 2014*
+- <span class="date">Fall 2013, Spring 2014</span> Introduction to Microeconomics (undergraduate)
 
-**Teaching Assistant**
-- **Regulation and Competition Policy for Graduates**  
-  *Fall 2012, Spring 2013*
+Teaching Assistant
+
+- <span class="date">Fall 2012, Spring 2013</span> Regulation and Competition Policy (graduate)

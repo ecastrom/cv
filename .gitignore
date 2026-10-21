@@ -1,0 +1,6 @@
+latex/*
+!latex/cv.tex
+!latex/cv_body.tex
+~$*
+*.tmp
+_site/
