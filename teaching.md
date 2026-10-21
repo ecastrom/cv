@@ -7,8 +7,8 @@ title: Teaching
 
 ## Tecnológico de Monterrey
 
-- <span class="date">Fall 2026</span> De micro incentivos a macro resultados
-- <span class="date">Fall 2026</span> Economía conductual
+- <span class="date">Fall 2026</span> EC1025 De microincentivos a macroresultados
+- <span class="date">Fall 2026</span> EC1015 Economía conductual
 - <span class="date">Spring 2026</span> EO 4024 Precios y Comportamiento de los Agentes
 
 ## George Mason University Korea
