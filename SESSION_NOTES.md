@@ -42,7 +42,7 @@ Since 2026-10-20 there is no theme: a custom layout plus a stylesheet.
 4. ICFES wording "ranked 1/1000 nationwide" kept verbatim; meaning unclear.
 5. "University of Pacific" changed to "Universidad del Pacífico"; Matias → Matías. Confirm.
 6. EO 4024: "(for graduates)" dropped from the teaching page. Restore if it is a graduate course.
-7. Fall 2026 courses: EC1025 De microincentivos a macroresultados (2 groups) and EC1015 Economía conductual (2 groups, last 5 weeks). The English CV names are my translations. Codes came from the Experiencia21 Canvas API (`/api/v1/courses?enrollment_state=active`) in the PI's signed-in Chrome; never enter credentials. The PI also has a teacher role on the seed course P3018 "Experimentos e inferencia causal" (unpublished); not added, so ask about it.
+7. Fall 2026 courses: EC1025 De microincentivos a macroresultados (2 groups) and EC1015 Economía conductual (2 groups, last 5 weeks). The English CV names are my translations. Codes came from the Experiencia21 Canvas API (`/api/v1/courses?enrollment_state=active`) in the PI's signed-in Chrome; never enter credentials. The PI has a teacher role on the seed course P3018 "Experimentos e inferencia causal" but does NOT teach it; keep it off the CV (PI, 2026-10-20).
 8. US phone +1 (202) still in the PDF; is it still in use?
 
 ## Pending
