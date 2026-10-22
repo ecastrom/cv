@@ -29,7 +29,7 @@ Applied microeconomics, experimental economics, public economics, political econ
 
 ## Working Papers
 
-- "Price Distortions and Hoarding: An Experiment" (with César Martinelli). GMU Working Paper in Economics No. 23-45, 2023. Revise and resubmit, *Journal of Economic Behavior & Organization*. [SSRN](https://ssrn.com/abstract=4654570)
+- "Price Distortions and Hoarding: An Experiment" (with César Martinelli and Nicholas Brown). GMU Working Paper in Economics No. 23-45, 2023. Revise and resubmit, *Journal of Economic Behavior & Organization*. [SSRN](https://ssrn.com/abstract=4654570)
 - "Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19" (with Anastasiya Yarygina-Udovenko and Gabriel Villalba Ortega). IDB Working Paper Series, 2026. [Link](https://publications.iadb.org/en/discretionary-procurement-flexibilization-efficiency-and-rent-seeking-evidence-chile-during-covid)
 - "Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina" (with Carlos Scartascini). IDB Discussion Paper No. IDB-DP-665, 2019. [DOI](https://doi.org/10.18235/0001661)
 

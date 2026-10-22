@@ -16,7 +16,7 @@ with Paul E. Carrillo and Carlos Scartascini<br>
 ## Working Papers
 
 <p class="paper"><span class="paper-title">Price Distortions and Hoarding: An Experiment</span><br>
-with César Martinelli<br>
+with César Martinelli and Nicholas Brown<br>
 Revise and resubmit, <em>Journal of Economic Behavior &amp; Organization</em><br>
 GMU Working Paper in Economics No. 23-45 (2023) · <a href="https://ssrn.com/abstract=4654570">SSRN</a> · <a href="https://doi.org/10.2139/ssrn.4654570">DOI</a></p>
 

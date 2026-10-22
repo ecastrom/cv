@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2026-10-22 — Hoarding paper coauthor
+
+1. "Price Distortions and Hoarding: An Experiment" (R&R, JEBO): added Nicholas Brown as coauthor (with César Martinelli and Nicholas Brown) in `cv.md`, `research.md`, and the rebuilt `assets/Castro_CV.pdf`.
+
 ## 2026-10-20 — Session 1: CV update and redesign
 
 1. Removed clutter from the repository: an old Claude worktree copy of the whole site (`.claude/worktrees/…`), Word lock/temp files, and the 2023 CV files (`CV_EDGAR_CASTRO_2023.*`, `CV_with_Intro_2023.docx`). Added `.gitignore` so they don't come back.
