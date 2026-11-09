@@ -24,7 +24,7 @@
 
 10. Whole site restyled after looking at stanislaomaldonado.org, without copying it: a Mason green band at the top holds the name, the navigation and the page title, with a gold rule under it; the page is wider (54rem); section headings sit in a left column beside their entries; links are green (gold in dark mode). No search bar.
 11. Home: photo, email and CV link in the left column, text on the right. Removed the line of links at the bottom (the navigation already has them) and added one sentence about the BEER Lab.
-12. New `projects.md` and a "Projects" item in the navigation: BEER Lab (co-founder and deputy director) and the BEER Lab classroom experiments (programmed 20 of the games, revising others).
+12. New `projects.md` and a "Projects" item in the navigation: BEER Lab (co-founder and deputy director) and the BEER Lab classroom experiments (described as "one of the contributors to the collection"; reworded 2026-11-09 from a first version that gave the number of games).
 13. Added the working paper "Tackling Biased Beliefs to Foster Women's Entry into Economics: Experimental Evidence from Mexico" (with Stanislao Maldonado, Elvira Naranjo and Joana Chapa) to the research page and the CV; PDF CV rebuilt.
 14. Page titles moved from the Markdown (`# Research` etc.) to the masthead; front matter gained `lede` and, for the CV, `heading`.
 15. `.claude/` added to `.gitignore` (local preview config).

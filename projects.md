@@ -14,10 +14,10 @@ lede: A research laboratory and the classroom games built around it.
 </div>
 
 <div class="project">
-<p class="project-side"><b>Teaching platform</b> Game developer<br>BEER Lab</p>
+<p class="project-side"><b>Teaching platform</b> Contributor<br>BEER Lab</p>
 <div>
 <h2>Classroom Experiments</h2>
-<p>A collection of about 185 experimental economics games that instructors can run in class from a browser, with guides that are free to reuse. I programmed 20 of the games and am revising others in the collection.</p>
+<p>A collection of about 185 experimental economics games that instructors can run in class from a browser, with guides that are free to reuse. I am one of the contributors to the collection.</p>
 <p><a href="https://teaching.beer-lab.org/en/">Browse the games</a> · <a href="https://teaching.beer-lab.org/guia/en/">Instructor guide</a></p>
 </div>
 </div>
