@@ -29,7 +29,9 @@
 14. Page titles moved from the Markdown (`# Research` etc.) to the masthead; front matter gained `lede` and, for the CV, `heading`.
 15. `.claude/` added to `.gitignore` (local preview config).
 
-Checked in a local preview at desktop and phone widths, light and dark. Committed on 2026-11-09; not yet pushed when this entry was written.
+16. The stylesheet link now carries the build time (`site.css?v=…`), so a browser that cached the old stylesheet does not show the new pages unstyled.
+
+Checked in a local preview at desktop and phone widths, light and dark. Committed and pushed on 2026-11-09; checked on the live site.
 
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
