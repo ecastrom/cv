@@ -4,3 +4,4 @@ latex/*
 ~$*
 *.tmp
 _site/
+.claude/

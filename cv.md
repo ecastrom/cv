@@ -1,9 +1,8 @@
 ---
 layout: default
 title: CV
+heading: Curriculum Vitae
 ---
-
-# Curriculum Vitae
 
 <p class="cv-meta">Edgar Orlando Castro Méndez · <a href="mailto:ecastrom@tec.mx">ecastrom@tec.mx</a> · <a href="assets/Castro_CV.pdf">PDF version</a></p>
 
@@ -29,6 +28,7 @@ Applied microeconomics, experimental economics, public economics, political econ
 
 ## Working Papers
 
+- "Tackling Biased Beliefs to Foster Women's Entry into Economics: Experimental Evidence from Mexico" (with Stanislao Maldonado, Elvira Naranjo, and Joana Chapa). Working paper, 2026. [PDF](https://www.stanislaomaldonado.org/documents/research/tackling-biased-beliefs.pdf)
 - "Price Distortions and Hoarding: An Experiment" (with César Martinelli). GMU Working Paper in Economics No. 23-45, 2023. Revise and resubmit, *Journal of Economic Behavior & Organization*. [SSRN](https://ssrn.com/abstract=4654570)
 - "Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19" (with Anastasiya Yarygina-Udovenko and Gabriel Villalba Ortega). IDB Working Paper Series, 2026. [Link](https://publications.iadb.org/en/discretionary-procurement-flexibilization-efficiency-and-rent-seeking-evidence-chile-during-covid)
 - "Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina" (with Carlos Scartascini). IDB Discussion Paper No. IDB-DP-665, 2019. [DOI](https://doi.org/10.18235/0001661)

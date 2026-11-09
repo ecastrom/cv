@@ -6,16 +6,19 @@ Internal notes for Claude. Not published (excluded in `_config.yml`).
 
 GitHub Pages site (Jekyll, built by GitHub; no local Ruby/Jekyll on this machine).
 Since 2026-10-20 there is no theme: a custom layout plus a stylesheet.
+Restyled 2026-11-08 (see "Design" below).
 
 | File | Role |
 |---|---|
 | `_config.yml` | site title, email, address (footer); `exclude` list |
-| `_layouts/default.html` | header nav (Research · Teaching · CV), home intro with photo when `home: true`, footer |
-| `assets/css/site.css` | all styling. Serif (Source Serif 4), one column 44rem, light and dark, phone breakpoint 600px, print |
+| `_layouts/default.html` | green masthead holding site name, nav (Research · Teaching · Projects · CV), the page title (`heading` or `title` from front matter) and an optional `lede`; home (`home: true`) gets photo + email + CV link in a left column; footer |
+| `assets/css/site.css` | all styling. Serif (Source Serif 4), 54rem wide, light and dark, phone breakpoint 720px, print |
 | `main.md` | home page (URL `/cv/main`, linked from elsewhere, so keep that URL) |
 | `index.html` | redirects `/cv/` to `/cv/main` |
 | `cv.md` | web CV **and the single source for the PDF** |
 | `research.md`, `teaching.md` | papers (HTML `<p class="paper">` blocks), courses |
+| `projects.md` | Projects page: one `<div class="project">` per project (side label + role, title, text, links) |
+| `.claude/launch.json` | local preview config (git-ignored); the script it points to lived in a session scratchpad and has to be recreated |
 | `tools/build_cv.py` | cv.md → `latex/cv_body.tex` → XeLaTeX → `assets/Castro_CV.pdf` |
 | `latex/cv.tex` | PDF template: header with phones (phones appear ONLY in the PDF), XCharter font |
 | `assets/img/photo.jpg` | 480px web photo made from `PhotoID.png` (the original, kept but excluded from the build) |
@@ -28,7 +31,16 @@ Since 2026-10-20 there is no theme: a custom layout plus a stylesheet.
 - Links `[text](url)`, `*italic*`, `"quoted titles"`. A trailing double space is a line break.
 - After editing cv.md, run `python tools/build_cv.py` and commit the new PDF.
 
+## Design (2026-11-08)
+- The PI asked for something like stanislaomaldonado.org (his coauthor's site) "but not an obvious copy", in GMU colors, whole site, and **no search bar** (his output is small).
+- Taken from the reference: a coloured band with the page title, a wider page, a side column of labels. Deliberately different: one band instead of white header + photo banner, no breadcrumb, no numerals, no logo, no boxed buttons, labels on the left rather than role on the right, all serif.
+- Colors: Mason green `#006633` (masthead, links) and gold `#ffcc33` (rule under the masthead, current nav item). Dark mode: deeper green band, gold links.
+- Pages no longer start with `# Title`; the title is in the masthead. Section `##` headings sit in a left column: the `h2` has zero height and a right padding of `100% - var(--side)`, so the entries start on its line. If a section's content is shorter than its (wrapped) heading, the next heading would collide; check after adding short sections.
+- A first-child paragraph in `main` (research intro, `cv-meta`) runs from the left edge.
+
 ## Decisions / constraints from the PI
+- Projects page (PI, 2026-11-08): BEER Lab (co-founder and deputy director, as on beer-lab.org/en/team) and the BEER Lab classroom games. The PI said he coded 20 of the games and is correcting Stan's; the page says "programmed 20 of the games and am revising others". The "about 185" count was read from teaching.beer-lab.org on 2026-11-08 and will go stale. Pukllay and WEBEAS were offered and not chosen.
+- "Tackling Biased Beliefs…" (with Maldonado, Naranjo, Chapa; version Oct 31, 2026) added as a working paper at the PI's request. Title and authors checked on the PDF title page. The AEA registry entry AEARCTR-0017053 lists Maldonado, Naranjo and Chapa only (not the PI); told the PI.
 - Must NOT look AI-generated: no cards, icons, emoji, gradients, marketing copy, or third-person voice.
 - **Job title:** Tec has no tenure. Its classification puts "Profesor de Economía" as the first level and "Assistant Professor" as the SECOND. The PI is at the first level, so never write "Assistant Professor" or "tenure-track" for the current post. In use: "Faculty Member in Economics (Profesor de planta)"; home page: "full-time economics faculty member". The PI said it is hard to translate; they may still choose another wording.
 - Summary and Methods sections dropped from the CV (PI agreed by silence).
@@ -49,7 +61,7 @@ Since 2026-10-20 there is no theme: a custom layout plus a stylesheet.
 - PI to answer the questions above. The site has been live since 2026-10-20 (commit ab7abe3 and later).
 
 ## Resuming
-Read this file and CHANGELOG.md. Preview without Jekyll: a rough Python renderer (python-markdown + layout substitution) served over http works in the browser pane; GitHub's kramdown adds curly quotes that the preview lacks.
+Read this file and CHANGELOG.md. Preview without Jekyll: a small Python server that renders the layout with `python-liquid` (installed with `pip --target` into the scratchpad, plus a `relative_url` filter that prefixes `/cv`) and the pages with python-markdown, serving `/cv/<page>`; started through `.claude/launch.json` in the browser pane. It is not kramdown, so check the live site after pushing.
 
 ## Working Maxims (copy from global CLAUDE.md)
 1. Do not touch raw source data. Work on copies. Worked products are not raw data and need no backups.

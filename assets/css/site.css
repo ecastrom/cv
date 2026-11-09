@@ -1,18 +1,28 @@
+/* Palette: George Mason green and gold. */
 :root {
-  --text: #1d1d1b;
-  --muted: #66645e;
-  --rule: #d9d6ce;
-  --bg: #fcfbf8;
-  --link: #8a2a1c;
+  color-scheme: light dark;
+  --text: #1c1f1c;
+  --muted: #5d635d;
+  --rule: #d8d6cb;
+  --bg: #fbfaf6;
+  --link: #006633;
+  --mast: #006633;
+  --mast-text: #ffffff;
+  --mast-soft: #d5e6dc;
+  --gold: #ffcc33;
+  --side: 11rem;
+  --gap: 2.5rem;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: #e6e3dc;
-    --muted: #a09c93;
-    --rule: #3a3936;
-    --bg: #1b1a18;
-    --link: #e0917f;
+    --text: #e4e3dc;
+    --muted: #a2a69f;
+    --rule: #343a35;
+    --bg: #151916;
+    --link: #e9c24a;
+    --mast: #0b3f2a;
+    --mast-soft: #b9cfc2;
   }
 }
 
@@ -32,48 +42,81 @@ body {
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.site-header,
-main,
-.site-footer {
-  max-width: 44rem;
+.wrap {
+  max-width: 54rem;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 1.25rem;
 }
 
-.site-header {
+/* Masthead: site name, navigation and the page title on one green band. */
+.masthead {
+  background: var(--mast);
+  color: var(--mast-text);
+  border-bottom: 4px solid var(--gold);
+  padding: 1.1rem 0 1.9rem;
+}
+
+.topline {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
   align-items: baseline;
   gap: .25rem 1.5rem;
-  padding-top: 2rem;
-  padding-bottom: .75rem;
-  border-bottom: 1px solid var(--rule);
 }
 
-.site-name { color: var(--text); font-weight: 600; }
+.site-name { color: var(--mast-text); font-weight: 600; }
 
-nav a { margin-left: 1.25rem; color: var(--muted); }
+nav { margin-left: auto; }
+nav a {
+  margin-left: 1.4rem;
+  padding-bottom: .15rem;
+  color: var(--mast-soft);
+  border-bottom: 2px solid transparent;
+}
 nav a:first-child { margin-left: 0; }
-nav a[aria-current] { color: var(--text); }
+nav a:hover { color: var(--mast-text); text-decoration: none; border-bottom-color: var(--mast-soft); }
+nav a[aria-current] { color: var(--mast-text); border-bottom-color: var(--gold); }
 
-main { padding-top: 2rem; padding-bottom: 3rem; }
-
-h1 { font-size: 1.75rem; font-weight: 600; line-height: 1.2; margin: 0 0 1rem; }
-
-h2 {
-  font-size: .85rem;
+h1 {
+  font-size: clamp(2rem, 6vw, 2.9rem);
   font-weight: 600;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin: 2.25rem 0 .75rem;
+  line-height: 1.1;
+  letter-spacing: -.01em;
+  margin: 2.6rem 0 0;
 }
+
+.lede { margin: .6rem 0 0; max-width: 38rem; color: var(--mast-soft); }
+
+main.wrap { padding-top: 2.5rem; padding-bottom: 4rem; }
 
 p { margin: 0 0 1rem; }
 
 ul { list-style: none; padding: 0; margin: 0 0 1rem; }
 li { margin: 0 0 .45rem; }
+
+/* Section headings sit in a left column, beside the entries they label.
+   The heading has no height of its own, so the entries start on its line. */
+main > * { margin-left: calc(var(--side) + var(--gap)); }
+
+h2 {
+  font-size: .8rem;
+  font-weight: 600;
+  line-height: 1.9375;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+main > h2 {
+  box-sizing: content-box;
+  height: 0;
+  margin: 1.5rem 0 0;
+  padding: 1.25rem calc(100% - var(--side)) 0 0;
+  border-top: 1px solid var(--rule);
+}
+main > h2:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+
+/* An opening paragraph runs from the left edge, above the first section. */
+main > p:first-child { margin-left: 0; max-width: 40rem; }
 
 /* Dated entries: the date is written first and floats to the right margin. */
 li { overflow: hidden; }
@@ -85,44 +128,88 @@ li > .date {
   font-variant-numeric: tabular-nums;
 }
 
-.intro {
-  display: flex;
-  gap: 1.5rem;
-  align-items: flex-end;
-  margin-bottom: 2rem;
+/* Home: photo and contact in the left column, text on the right. */
+main.home {
+  display: grid;
+  grid-template-columns: var(--side) minmax(0, 1fr);
+  column-gap: var(--gap);
 }
-.portrait {
-  width: 140px;
-  height: auto;
-  display: block;
-  filter: grayscale(15%);
-}
-.contact { color: var(--muted); margin: 0; }
+main.home > * { margin-left: 0; }
+.portrait { width: 100%; height: auto; display: block; }
+.contact { margin: .9rem 0 0; font-size: .9rem; line-height: 1.7; overflow-wrap: anywhere; }
 
-.cv-meta { color: var(--muted); margin-top: -.5rem; }
+.cv-meta { color: var(--muted); }
 
-.paper { margin-bottom: 1.1rem; }
+.paper { margin-bottom: 1.2rem; }
 .paper-title { font-weight: 600; }
 
-.site-footer {
-  padding-top: 1rem;
-  padding-bottom: 2rem;
+/* Projects: kind and role on the left, description on the right. */
+.project {
+  display: grid;
+  grid-template-columns: var(--side) minmax(0, 1fr);
+  column-gap: var(--gap);
+  margin: 0;
+  padding: 1.75rem 0;
   border-top: 1px solid var(--rule);
+}
+.project:first-child { padding-top: 0; border-top: 0; }
+.project-side {
+  margin: .35rem 0 0;
+  font-size: .9rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+.project-side b {
+  display: block;
+  margin-bottom: .3rem;
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.project h2 {
+  margin: 0 0 .6rem;
+  font-size: 1.45rem;
+  line-height: 1.25;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--text);
+}
+.project p:last-child { margin-bottom: 0; }
+
+.site-footer {
+  border-top: 1px solid var(--rule);
+  padding: 1rem 0 2rem;
   color: var(--muted);
   font-size: .85rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 720px) {
   body { font-size: 17px; }
-  .site-header { padding-top: 1.25rem; }
-  nav a { margin-left: 0; margin-right: 1rem; }
-  .intro { flex-direction: column; align-items: flex-start; }
+  .masthead { padding-bottom: 1.4rem; }
+  nav { margin-left: 0; }
+  nav a { margin-left: 0; margin-right: 1.1rem; }
+  h1 { margin-top: 1.6rem; }
+  main.wrap { padding-top: 1.75rem; padding-bottom: 3rem; }
+
+  main > * { margin-left: 0; }
+  main > h2 { height: auto; padding: 1.25rem 0 0; margin-bottom: .6rem; }
+  main > h2:first-child { padding-top: 0; }
+
+  main.home, .project { display: block; }
   .portrait { width: 120px; }
+  .contact { margin-bottom: 1.5rem; }
+  .project-side { margin: 0 0 .6rem; }
+  .project-side b { display: inline; margin-right: .6rem; }
+
   li > .date { float: none; display: block; margin-left: 0; font-size: .9em; }
 }
 
 @media print {
   body { background: #fff; color: #000; font-size: 11pt; }
-  .site-header nav, .site-footer { display: none; }
+  .masthead { background: none; color: #000; border-bottom: 1px solid #000; padding: 0 0 .5rem; }
+  .site-name, .lede { color: #000; }
+  h1 { margin-top: .5rem; }
+  nav, .site-footer { display: none; }
   a { color: #000; }
 }

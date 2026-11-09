@@ -20,8 +20,19 @@
 8. Committed and pushed (ab7abe3); verified live on GitHub Pages.
 9. Added Fall 2026 Tec courses "De micro incentivos a macro resultados" and "Economía conductual" to the teaching page and the CV (English names on the CV, Spanish in parentheses). Codes taken from Experiencia21 (via the PI's Chrome session): EC1025 (groups 602 and 611, Aug–Dec 2026) and EC1015 (groups 301 and 303, Nov 2–Dec 7, 2026).
 
+## 2026-11-08 — Session 2: restyle in GMU colors and Projects page
+
+10. Whole site restyled after looking at stanislaomaldonado.org, without copying it: a Mason green band at the top holds the name, the navigation and the page title, with a gold rule under it; the page is wider (54rem); section headings sit in a left column beside their entries; links are green (gold in dark mode). No search bar.
+11. Home: photo, email and CV link in the left column, text on the right. Removed the line of links at the bottom (the navigation already has them) and added one sentence about the BEER Lab.
+12. New `projects.md` and a "Projects" item in the navigation: BEER Lab (co-founder and deputy director) and the BEER Lab classroom experiments (programmed 20 of the games, revising others).
+13. Added the working paper "Tackling Biased Beliefs to Foster Women's Entry into Economics: Experimental Evidence from Mexico" (with Stanislao Maldonado, Elvira Naranjo and Joana Chapa) to the research page and the CV; PDF CV rebuilt.
+14. Page titles moved from the Markdown (`# Research` etc.) to the masthead; front matter gained `lede` and, for the CV, `heading`.
+15. `.claude/` added to `.gitignore` (local preview config).
+
+Checked in a local preview at desktop and phone widths, light and dark. Committed on 2026-11-09; not yet pushed when this entry was written.
+
 ### Current state
-Site live at ecastrom.github.io/cv. Open questions are listed in SESSION_NOTES.md.
+Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
 
 ### TO RESUME WORK
 - Edit `cv.md` (conventions are in SESSION_NOTES.md), then run `python tools/build_cv.py` to refresh the PDF.

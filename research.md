@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Research
+lede: Applied microeconomics, experimental economics, public economics, political economy.
 ---
-
-# Research
 
 My research studies how incentives, information, and beliefs shape individual behavior and public policy outcomes. I focus on settings where prices, rules, or information are distorted, and where behavioral responses play a central role in the effectiveness of policy design. Methodologically, my work combines experimental and causal inference methods, including field and natural experiments, and the analysis of administrative data.
 
@@ -14,6 +13,10 @@ with Paul E. Carrillo and Carlos Scartascini<br>
 <em>Journal of Public Economics</em>, 198 (2021): 104422 · <a href="https://doi.org/10.1016/j.jpubeco.2021.104422">DOI</a></p>
 
 ## Working Papers
+
+<p class="paper"><span class="paper-title">Tackling Biased Beliefs to Foster Women’s Entry into Economics: Experimental Evidence from Mexico</span><br>
+with <a href="https://www.stanislaomaldonado.org/">Stanislao Maldonado</a>, Elvira Naranjo and Joana Chapa<br>
+Working paper (October 2026) · <a href="https://www.stanislaomaldonado.org/documents/research/tackling-biased-beliefs.pdf">PDF</a> · <a href="https://www.socialscienceregistry.org/trials/17053">AEA RCT Registry</a></p>
 
 <p class="paper"><span class="paper-title">Price Distortions and Hoarding: An Experiment</span><br>
 with César Martinelli<br>

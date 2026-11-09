@@ -11,34 +11,41 @@
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 </head>
 <body>
-<header class="site-header">
-  <a class="site-name" href="{{ '/main' | relative_url }}">{{ site.title }}</a>
-  <nav>
-    <a href="{{ '/research' | relative_url }}"{% if page.title == 'Research' %} aria-current="page"{% endif %}>Research</a>
-    <a href="{{ '/teaching' | relative_url }}"{% if page.title == 'Teaching' %} aria-current="page"{% endif %}>Teaching</a>
-    <a href="{{ '/cv' | relative_url }}"{% if page.title == 'CV' %} aria-current="page"{% endif %}>CV</a>
-  </nav>
+<header class="masthead">
+  <div class="wrap">
+    <div class="topline">
+      {% unless page.home %}<a class="site-name" href="{{ '/main' | relative_url }}">{{ site.title }}</a>{% endunless %}
+      <nav>
+        <a href="{{ '/research' | relative_url }}"{% if page.title == 'Research' %} aria-current="page"{% endif %}>Research</a>
+        <a href="{{ '/teaching' | relative_url }}"{% if page.title == 'Teaching' %} aria-current="page"{% endif %}>Teaching</a>
+        <a href="{{ '/projects' | relative_url }}"{% if page.title == 'Projects' %} aria-current="page"{% endif %}>Projects</a>
+        <a href="{{ '/cv' | relative_url }}"{% if page.title == 'CV' %} aria-current="page"{% endif %}>CV</a>
+      </nav>
+    </div>
+    <h1>{% if page.home %}{{ site.title }}{% else %}{{ page.heading | default: page.title }}{% endif %}</h1>
+    {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+  </div>
 </header>
 
-<main>
+<main class="wrap{% if page.home %} home{% endif %}">
 {% if page.home %}
-<div class="intro">
+<aside class="side">
   <img class="portrait" src="{{ '/assets/img/photo.jpg' | relative_url }}" alt="Edgar O. Castro Méndez" width="160" height="240">
-  <div>
-    <h1>{{ site.title }}</h1>
-    <p class="contact">
-      School of Social Sciences and Government<br>
-      Tecnológico de Monterrey<br>
-      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-    </p>
-  </div>
-</div>
-{% endif %}
+  <p class="contact">
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+    <a href="{{ '/assets/Castro_CV.pdf' | relative_url }}">CV (PDF)</a>
+  </p>
+</aside>
+<div class="body">
 {{ content }}
+</div>
+{% else %}
+{{ content }}
+{% endif %}
 </main>
 
 <footer class="site-footer">
-  {{ site.address }}
+  <div class="wrap">{{ site.address }}</div>
 </footer>
 </body>
 </html>
