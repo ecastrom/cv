@@ -35,7 +35,7 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 
 ## 2026-11-09 — Session 3: richer design
 
-17. New look in navy and gold, closer in richness to stanislaomaldonado.org: a navy top bar; on the home page, a hero with the Monterrey campus photo, your name in large type, a tagline ("Incentives, beliefs and public policy."), Research and CV buttons, and your office photo in a framed card; a strip with your four fields; About and News side by side; three selected papers; a BEER Lab band with the prize photo.
+17. New look (first navy, then deep green at your request) with gold accents, closer in richness to stanislaomaldonado.org: a navy top bar; on the home page, a hero with the Monterrey campus photo, your name in large type, a tagline ("Incentives, beliefs and public policy."), Research and CV buttons, and your office photo in a framed card; a strip with your four fields; About and News side by side; three selected papers; a BEER Lab band with the prize photo.
 18. Research page: each paper is a row (year and type on the left, title, coauthors and journal in the middle, a "Read paper" button on the right).
 19. Teaching and Projects pages get a photo banner (computer lab; lab session); Projects ends with two more photos.
 20. Photos resized for the web from `assets/photo/` (EXIF and location removed). The raw photo folder is git-ignored.

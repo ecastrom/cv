@@ -1,17 +1,17 @@
-/* Palette: deep navy with a muted gold accent. */
+/* Palette: deep forest green with a muted gold accent. */
 :root {
   color-scheme: light dark;
-  --ink: #16213a;
+  --ink: #18301f;
   --text: #22262e;
   --muted: #646a74;
   --rule: #dcd8cd;
   --bg: #fbfaf7;
   --panel: #f2efe7;
-  --link: #1f3d73;
-  --navy: #14203b;
-  --navy-2: #1d2d50;
+  --link: #1d5a3a;
+  --navy: #0f3324;
+  --navy-2: #15402d;
   --on-navy: #ffffff;
-  --on-navy-soft: #c9d1e1;
+  --on-navy-soft: #cfe0d4;
   --gold: #c19a4b;
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --sans: Inter, "Segoe UI", system-ui, sans-serif;
@@ -19,15 +19,15 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --ink: #eef0f4;
-    --text: #dfe1e6;
-    --muted: #9ba2ae;
-    --rule: #2f3645;
-    --bg: #111621;
-    --panel: #182031;
+    --ink: #edf2ee;
+    --text: #dde3de;
+    --muted: #9aa69e;
+    --rule: #2b3a31;
+    --bg: #101713;
+    --panel: #17231c;
     --link: #d9b46a;
-    --navy: #0c1324;
-    --navy-2: #131d34;
+    --navy: #0a2118;
+    --navy-2: #102a1f;
   }
 }
 
@@ -75,7 +75,7 @@ nav a[aria-current] { color: var(--on-navy); border-bottom-color: var(--gold); }
   isolation: isolate;
 }
 .hero-photo, .hero-home {
-  background: linear-gradient(100deg, rgba(14,22,42,.93) 0%, rgba(14,22,42,.78) 42%, rgba(14,22,42,.35) 100%), var(--hero) center / cover no-repeat;
+  background: linear-gradient(100deg, rgba(9,38,26,.93) 0%, rgba(9,38,26,.78) 42%, rgba(9,38,26,.35) 100%), var(--hero) center / cover no-repeat;
 }
 .hero-home { background-position: center, center 35%; }
 .hero-photo { padding: 5rem 0 3.5rem; }
