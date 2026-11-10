@@ -28,6 +28,11 @@ lede: I am a full-time economics faculty member in the School of Social Sciences
 <p>With Stanislao Maldonado, Elvira Naranjo and Joana Chapa.</p>
 </article>
 <article>
+<p class="kicker">Working paper · September 2026</p>
+<h3><a href="https://beer-lab.org/en/research/wp/2026-02/">Price Distortions and Hoarding: An Experiment</a></h3>
+<p>New version, BEER Lab Working Paper 2026-02, with César Martinelli and Nicholas Brown.</p>
+</article>
+<article>
 <p class="kicker">Teaching · Fall 2026</p>
 <h3>De microincentivos a macroresultados and Economía conductual</h3>
 <p>Two courses this semester at Campus Monterrey.</p>
@@ -56,12 +61,12 @@ lede: I am a full-time economics faculty member in the School of Social Sciences
 </article>
 
 <article class="paper compact">
-<p class="paper-meta"><b>2023</b><span>Revise and resubmit</span></p>
+<p class="paper-meta"><b>2026</b><span>Revise and resubmit</span></p>
 <div>
 <p class="paper-title">Price Distortions and Hoarding: An Experiment</p>
-<p class="paper-venue">with César Martinelli · <em>Journal of Economic Behavior &amp; Organization</em></p>
+<p class="paper-venue">with César Martinelli and Nicholas Brown · <em>Journal of Economic Behavior &amp; Organization</em></p>
 </div>
-<p class="paper-links"><a href="https://ssrn.com/abstract=4654570">Read paper ↗</a></p>
+<p class="paper-links"><a href="https://beer-lab.org/investigacion/wp/2026-02/BEER_WP_2026-02_Castro_Martinelli_Brown_Price_Distortions_Hoarding.pdf">Read paper ↗</a></p>
 </article>
 
 <article class="paper compact">

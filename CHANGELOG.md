@@ -55,6 +55,10 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 28. A daily GitHub job (`.github/workflows/substack.yml`) reads your Substack feed and updates the list when you publish; no action needed from you.
 29. On phones the menu now wraps onto two lines.
 
+## 2026-11-10 — Session 3 (cont.): latest hoarding paper
+
+30. "Price Distortions and Hoarding: An Experiment" now points to the latest version, BEER Lab Working Paper 2026-02 (September 2026), on the research pages, both home pages (selected papers and a new News item) and both CVs. Coauthors updated to César Martinelli and Nicholas Brown, as on the paper's title page. The 2023 SSRN version stays linked as "2023 version". The Spanish PDF margins were trimmed slightly to keep it at 3 pages.
+
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
 

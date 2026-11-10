@@ -32,7 +32,7 @@ Microeconomía aplicada, economía experimental, economía pública, economía p
 ## Documentos de trabajo
 
 - "Tackling Biased Beliefs to Foster Women's Entry into Economics: Experimental Evidence from Mexico" (con Stanislao Maldonado, Elvira Naranjo y Joana Chapa). Documento de trabajo, 2026. [PDF](https://www.stanislaomaldonado.org/documents/research/tackling-biased-beliefs.pdf)
-- "Price Distortions and Hoarding: An Experiment" (con César Martinelli). GMU Working Paper in Economics No. 23-45, 2023. Revise and resubmit, *Journal of Economic Behavior & Organization*. [SSRN](https://ssrn.com/abstract=4654570)
+- "Price Distortions and Hoarding: An Experiment" (con César Martinelli y Nicholas Brown). Documento de Trabajo del BEER Lab No. 2026-02, 2026 (versión anterior: GMU Working Paper in Economics No. 23-45, 2023). Revise and resubmit, *Journal of Economic Behavior & Organization*. [PDF](https://beer-lab.org/investigacion/wp/2026-02/BEER_WP_2026-02_Castro_Martinelli_Brown_Price_Distortions_Hoarding.pdf)
 - "Discretionary Procurement Flexibilization, Efficiency, and Rent-Seeking: Evidence from Chile During COVID-19" (con Anastasiya Yarygina-Udovenko y Gabriel Villalba Ortega). Serie de Documentos de Trabajo del BID, 2026. [Enlace](https://publications.iadb.org/en/discretionary-procurement-flexibilization-efficiency-and-rent-seeking-evidence-chile-during-covid)
 - "Imperfect Attention in Public Policy: A Field Experiment during a Tax Amnesty in Argentina" (con Carlos Scartascini). Documento para discusión del BID No. IDB-DP-665, 2019. [DOI](https://doi.org/10.18235/0001661)
 

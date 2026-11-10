@@ -43,6 +43,10 @@ Restyled 2026-11-08 (see "Design" below).
 - Substack: https://substack.com/@edgarcastrom, publication "Economics Over Lunch and Coffee", feed https://edgarcastrom.substack.com/feed (no cover images in the feed). `tools/fetch_substack.py` writes `_data/substack.json` (title, subtitle, url, dates in EN and ES, detected language, ~45-word excerpt). `_includes/essays.html` shows them: 3 on each home page, all on `writing.md` / `es/writing.md` ("Writing" / "Ensayos" in the menu).
 - `.github/workflows/substack.yml` runs daily at 12:17 UTC (and by hand from the Actions tab): fetch, commit if changed, request a Pages build. GitHub disables scheduled workflows after 60 days without repository activity; if essays stop appearing, re-enable it in the Actions tab.
 
+## Hoarding paper (2026-11-10)
+- Latest version = BEER Lab WP 2026-02 (Sept 2026), authors Castro, Martinelli, **Nicholas Brown** (title page and beer-lab.org page agree). PDF: https://beer-lab.org/investigacion/wp/2026-02/BEER_WP_2026-02_Castro_Martinelli_Brown_Price_Distortions_Hoarding.pdf ; pages: /en/research/wp/2026-02/ and /investigacion/wp/2026-02/. Link to the lab, do not upload a copy (PI: "the last version is on the BEER Lab website"). Status still "Revise and resubmit, JEBO" (not changed by the PI).
+- `assets/Hoarding_price_distortions.pdf` (old 2023 file) is not linked anywhere but is still reachable by URL; ask before deleting.
+
 ## Design (2026-11-09, replaces the 2026-11-08 design below)
 - The PI found the green design "too minimalistic" and asked for something richer, like stanislaomaldonado.org. He sent the photos for the home page (office selfie, prize group photo, campus with Cerro de la Silla) and for Projects (two lab-session photos). Colours were not chosen: navy + gold by default.
 - Home: photo hero, framed portrait (slightly rotated card), fields strip, About + News side by side (`.split`), "Selected papers" rows, BEER Lab feature band with the prize photo.

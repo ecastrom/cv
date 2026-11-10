@@ -36,13 +36,13 @@ lede: Microeconomía aplicada, economía experimental, economía pública, econo
 </article>
 
 <article class="paper">
-<p class="paper-meta"><b>2023</b><span>Documento de trabajo</span></p>
+<p class="paper-meta"><b>Septiembre 2026</b><span>Documento de trabajo</span></p>
 <div>
 <p class="paper-title">Price Distortions and Hoarding: An Experiment</p>
-<p class="paper-authors">con César Martinelli</p>
-<p class="paper-venue"><span class="status">Revise and resubmit</span>, <em>Journal of Economic Behavior &amp; Organization</em><br>GMU Working Paper in Economics No. 23-45</p>
+<p class="paper-authors">con César Martinelli y Nicholas Brown</p>
+<p class="paper-venue"><span class="status">Revise and resubmit</span>, <em>Journal of Economic Behavior &amp; Organization</em><br>Documento de Trabajo del BEER Lab No. 2026-02 · versión anterior: GMU Working Paper in Economics No. 23-45 (2023)</p>
 </div>
-<p class="paper-links"><a href="https://ssrn.com/abstract=4654570">Leer artículo ↗</a><a href="https://doi.org/10.2139/ssrn.4654570">DOI</a></p>
+<p class="paper-links"><a href="https://beer-lab.org/investigacion/wp/2026-02/BEER_WP_2026-02_Castro_Martinelli_Brown_Price_Distortions_Hoarding.pdf">Leer artículo ↗</a><a href="https://beer-lab.org/investigacion/wp/2026-02/">Resumen</a><a href="https://ssrn.com/abstract=4654570">Versión de 2023 (SSRN)</a></p>
 </article>
 
 <article class="paper">
