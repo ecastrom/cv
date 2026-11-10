@@ -11,7 +11,7 @@ Restyled 2026-11-08 (see "Design" below).
 | File | Role |
 |---|---|
 | `_config.yml` | site title, email, address (footer); `exclude` list |
-| `_layouts/default.html` | (2026-11-09) navy top bar with name + nav; home (`home: true`) gets a campus-photo hero with name, tagline, `lede`, buttons, framed portrait, then a 4-field strip; other pages get a navy hero with `eyebrow`, `heading`/`title`, `lede`, and a background photo if `hero:` is set; navy footer |
+| `_layouts/default.html` | (2026-11-09) navy top bar with name + nav; home (`home: true`) gets a light "cover" (name large, second line italic green; one-sentence statement; `lede`; underlined text links; arch-topped portrait with caption), then the campus photo as a full-colour `.panorama` strip; other pages get a navy hero with `eyebrow`, `heading`/`title`, `lede`, and a background photo if `hero:` is set; navy footer |
 | `assets/css/site.css` | all styling. Deep green `#0f3324` (bands), `#1d5a3a` (links) + gold `#c19a4b` (PI 2026-11-09: "not blue, make it green shade"); Source Serif 4 (text, headings) + Inter (labels, nav, buttons); 72rem wide; breakpoints 860/640px; light and dark; print |
 | `assets/img/` | web photos (EXIF stripped): campus.jpg (home hero), portrait.jpg (office selfie, 4:5), beer-lab-prizes.jpg, lab-session.jpg (Projects hero), lab-teams.jpg, lab-room.jpg (Teaching hero). `photo.jpg` (suit headshot) no longer used |
 | `assets/photo/` | the PI's raw WhatsApp photos (63); git-ignored, never publish them directly |
@@ -38,6 +38,8 @@ Restyled 2026-11-08 (see "Design" below).
 - Home: photo hero, framed portrait (slightly rotated card), fields strip, About + News side by side (`.split`), "Selected papers" rows, BEER Lab feature band with the prize photo.
 - Research: `<article class="paper">` rows: `.paper-meta` (year, kind) | title, authors, venue | `.paper-links` (first link is the "Read paper" button). Work in progress uses `.paper compact`.
 - News items on the home page are hand-written in main.md; keep them factual (sourced from research.md/cv.md).
+- Home cover redone 2026-11-09 because the PI found the photo-hero version "too obvious copycat from Stan's": no dark overlay, no framed tilted card, no boxed buttons, no numbered fields strip (fields now a line in About). Keep the home page visibly different from stanislaomaldonado.org.
+- Captions: do not name the mountain or say the office is at Tec (the cork-board notes look like GMU Korea students').
 - Student photos: the PI chose the prize photo (identifiable students). I flagged consent; still unconfirmed.
 
 ## Design (2026-11-08, superseded)

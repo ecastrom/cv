@@ -8,8 +8,9 @@ lede: I am a full-time economics faculty member in the School of Social Sciences
 <div class="split">
 <div>
 <p class="kicker">About</p>
-<h2>Experiments on how people respond to prices, rules and information</h2>
+<h2>About my work</h2>
 <p class="lead">My research lies in applied microeconomics, with a focus on public economics and market interventions.</p>
+<p class="kicker fields-line">Applied microeconomics · Experimental economics · Public economics · Political economy</p>
 <p>I use laboratory and field experiments, together with observational data, to study real-world economic problems and derive policy-relevant insights.</p>
 <p>I received my Ph.D. in Economics from the Interdisciplinary Center for Economic Science at George Mason University in December 2023.</p>
 <p>I am co-founder and deputy director of the <a href="https://beer-lab.org/en/">BEER Lab</a>, the Behavioral and Experimental Economics Research Lab at Tecnológico de Monterrey.</p>

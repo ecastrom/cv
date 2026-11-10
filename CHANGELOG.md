@@ -39,6 +39,7 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 18. Research page: each paper is a row (year and type on the left, title, coauthors and journal in the middle, a "Read paper" button on the right).
 19. Teaching and Projects pages get a photo banner (computer lab; lab session); Projects ends with two more photos.
 20. Photos resized for the web from `assets/photo/` (EXIF and location removed). The raw photo folder is git-ignored.
+21. Home page cover redone to look less like Stan's site: a light cover with your name set large (second line in green italics), one sentence about your research, plain underlined links, and your photo with an arched top; the campus photo now runs in full colour as a wide strip under it. The numbered fields strip is gone; your fields are a line in the About section, whose heading is now "About my work".
 
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
