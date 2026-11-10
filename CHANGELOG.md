@@ -45,6 +45,8 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 
 23. Home page: the campus photo is now a slim banner at the top with your name in white over it; your photo overlaps the banner's lower edge; the sentence and links sit below on the cream background.
 
+24. Your office photo is now cropped closer to your face, and the notes on the cork board behind you were removed (replaced with plain cork from the same photo). The caption about the notes is gone.
+
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
 
