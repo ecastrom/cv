@@ -39,7 +39,7 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 18. Research page: each paper is a row (year and type on the left, title, coauthors and journal in the middle, a "Read paper" button on the right).
 19. Teaching and Projects pages get a photo banner (computer lab; lab session); Projects ends with two more photos.
 20. Photos resized for the web from `assets/photo/` (EXIF and location removed). The raw photo folder is git-ignored.
-21. Home page cover redone to look less like Stan's site: a light cover with your name set large (second line in green italics), one sentence about your research, plain underlined links, and your photo with an arched top; the campus photo now runs in full colour as a wide strip under it. The numbered fields strip is gone; your fields are a line in the About section, whose heading is now "About my work".
+21. Home page cover redone to look less like Stan's site: a light cover with your name set large (second line in green italics), one sentence about your research, plain underlined links, and your photo as a plain rectangle with a thin gold frame offset behind it (the first try, with an arched top, looked like a tombstone); the campus photo now runs in full colour as a wide strip under it. The numbered fields strip is gone; your fields are a line in the About section, whose heading is now "About my work".
 
 22. Dark mode removed: the site always shows in light colours, whatever the visitor's computer setting.
 

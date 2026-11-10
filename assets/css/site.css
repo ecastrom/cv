@@ -101,9 +101,16 @@ nav a[aria-current] { color: var(--on-navy); border-bottom-color: var(--gold); }
 .cover-links { display: flex; flex-wrap: wrap; gap: .4rem 1.6rem; margin: 2rem 0 0; font-family: var(--sans); font-size: .85rem; }
 .cover-links a { padding-bottom: .15rem; border-bottom: 1px solid var(--gold); color: var(--ink); }
 .cover-links a:hover { text-decoration: none; color: var(--link); }
-.cover-portrait { margin: 0; }
-.cover-portrait img { display: block; width: 100%; height: auto; border-radius: 50% 50% 0 0 / 38% 38% 0 0; }
-.cover-portrait figcaption { margin-top: .6rem; font-size: .85rem; font-style: italic; color: var(--muted); }
+.cover-portrait { position: relative; margin: 0 .9rem .9rem 0; }
+.cover-portrait::before {
+  content: "";
+  position: absolute;
+  inset: .9rem -.9rem auto .9rem;
+  aspect-ratio: 4 / 5;
+  border: 1px solid var(--gold);
+}
+.cover-portrait img { position: relative; display: block; width: 100%; height: auto; }
+.cover-portrait figcaption { margin-top: 1.5rem; font-size: .85rem; font-style: italic; color: var(--muted); }
 
 .panorama { position: relative; margin: 0; }
 .panorama img { display: block; width: 100%; height: clamp(14rem, 34vw, 26rem); object-fit: cover; object-position: center 40%; }
