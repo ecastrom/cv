@@ -24,10 +24,15 @@
 </header>
 
 {% if page.home %}
+<section class="name-banner" style="--banner: url('{{ '/assets/img/campus.jpg' | relative_url }}')" role="img" aria-label="Campus Monterrey of Tecnológico de Monterrey, with the mountains behind it">
+  <div class="wrap">
+    <h1>Edgar O.<br><em>Castro Méndez</em></h1>
+  </div>
+  <p class="banner-caption">Campus Monterrey, Tecnológico de Monterrey</p>
+</section>
 <section class="cover">
   <div class="wrap cover-grid">
     <div class="cover-text">
-      <h1>Edgar O.<br><em>Castro Méndez</em></h1>
       <p class="cover-statement">I study how people respond to prices, rules and information, using experiments in the lab and in the field.</p>
       <p class="cover-role">{{ page.lede }}</p>
       <p class="cover-links">
@@ -43,10 +48,6 @@
     </figure>
   </div>
 </section>
-<figure class="panorama">
-  <img src="{{ '/assets/img/campus.jpg' | relative_url }}" alt="Campus Monterrey of Tecnológico de Monterrey, with the mountains behind it" width="1600" height="900">
-  <figcaption class="wrap">Campus Monterrey, Tecnológico de Monterrey.</figcaption>
-</figure>
 {% else %}
 <section class="hero{% if page.hero %} hero-photo{% endif %}"{% if page.hero %} style="--hero: url('{{ page.hero | relative_url }}')"{% endif %}>
   <div class="wrap">

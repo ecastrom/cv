@@ -43,6 +43,8 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 
 22. Dark mode removed: the site always shows in light colours, whatever the visitor's computer setting.
 
+23. Home page: the campus photo is now a slim banner at the top with your name in white over it; your photo overlaps the banner's lower edge; the sentence and links sit below on the cream background.
+
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
 
