@@ -1,6 +1,6 @@
 /* Palette: deep forest green with a muted gold accent. */
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
   --ink: #18301f;
   --text: #22262e;
   --muted: #646a74;
@@ -17,19 +17,6 @@
   --sans: Inter, "Segoe UI", system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --ink: #edf2ee;
-    --text: #dde3de;
-    --muted: #9aa69e;
-    --rule: #2b3a31;
-    --bg: #101713;
-    --panel: #17231c;
-    --link: #d9b46a;
-    --navy: #0a2118;
-    --navy-2: #102a1f;
-  }
-}
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }

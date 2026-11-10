@@ -12,7 +12,7 @@ Restyled 2026-11-08 (see "Design" below).
 |---|---|
 | `_config.yml` | site title, email, address (footer); `exclude` list |
 | `_layouts/default.html` | (2026-11-09) navy top bar with name + nav; home (`home: true`) gets a light "cover" (name large, second line italic green; one-sentence statement; `lede`; underlined text links; arch-topped portrait with caption), then the campus photo as a full-colour `.panorama` strip; other pages get a navy hero with `eyebrow`, `heading`/`title`, `lede`, and a background photo if `hero:` is set; navy footer |
-| `assets/css/site.css` | all styling. Deep green `#0f3324` (bands), `#1d5a3a` (links) + gold `#c19a4b` (PI 2026-11-09: "not blue, make it green shade"); Source Serif 4 (text, headings) + Inter (labels, nav, buttons); 72rem wide; breakpoints 860/640px; light and dark; print |
+| `assets/css/site.css` | all styling. Deep green `#0f3324` (bands), `#1d5a3a` (links) + gold `#c19a4b` (PI 2026-11-09: "not blue, make it green shade"); Source Serif 4 (text, headings) + Inter (labels, nav, buttons); 72rem wide; breakpoints 860/640px; light only (no dark mode: PI 2026-11-09 "I don't like it changes to dark theme"); print |
 | `assets/img/` | web photos (EXIF stripped): campus.jpg (home hero), portrait.jpg (office selfie, 4:5), beer-lab-prizes.jpg, lab-session.jpg (Projects hero), lab-teams.jpg, lab-room.jpg (Teaching hero). `photo.jpg` (suit headshot) no longer used |
 | `assets/photo/` | the PI's raw WhatsApp photos (63); git-ignored, never publish them directly |
 | `main.md` | home page (URL `/cv/main`, linked from elsewhere, so keep that URL) |
