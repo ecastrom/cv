@@ -33,6 +33,16 @@ Restyled 2026-11-08 (see "Design" below).
 - Links `[text](url)`, `*italic*`, `"quoted titles"`. A trailing double space is a line break.
 - After editing cv.md, run `python tools/build_cv.py` and commit the new PDF.
 
+## Bilingual site and Substack (2026-11-09)
+- English at the root (unchanged URLs); Spanish under `es/` with the SAME file names (es/main.md, es/research.md, ...). Every page has `lang: en|es` and `ref: <name>` in its front matter; the layout uses `ref` for the active menu item and for the EN | ES switch (`/es/<ref>` <-> `/<ref>`).
+- Interface strings (menu, subtitle, cover sentence, alt texts, PDF path, address, BEER Lab URL) live in `_data/i18n.yml`. Page text lives in each page.
+- Spanish pages must use `{{ '/assets/...' | relative_url }}` for images and PDFs (a plain `assets/...` path would point into /es/).
+- Paper titles, coauthors and journals stay in English on the Spanish site; Tec course names are Spanish on both.
+- Spanish CV: `es/cv.md` -> `latex/cv_es_body.tex` -> `latex/cv_es.tex` -> `assets/Castro_CV_es.pdf`. `python tools/build_cv.py` builds BOTH PDFs. Keep cv.md and es/cv.md in step when the CV changes.
+- Translation choices to confirm with the PI: "profesor de cátedra" for Adjunct Professor (Tec term), "Pregrado en Economía" for the B.A., "Dictaminador" for referee, "profesor asistente temporal (Term Assistant Professor)" for GMU Korea.
+- Substack: https://substack.com/@edgarcastrom, publication "Economics Over Lunch and Coffee", feed https://edgarcastrom.substack.com/feed (no cover images in the feed). `tools/fetch_substack.py` writes `_data/substack.json` (title, subtitle, url, dates in EN and ES, detected language, ~45-word excerpt). `_includes/essays.html` shows them: 3 on each home page, all on `writing.md` / `es/writing.md` ("Writing" / "Ensayos" in the menu).
+- `.github/workflows/substack.yml` runs daily at 12:17 UTC (and by hand from the Actions tab): fetch, commit if changed, request a Pages build. GitHub disables scheduled workflows after 60 days without repository activity; if essays stop appearing, re-enable it in the Actions tab.
+
 ## Design (2026-11-09, replaces the 2026-11-08 design below)
 - The PI found the green design "too minimalistic" and asked for something richer, like stanislaomaldonado.org. He sent the photos for the home page (office selfie, prize group photo, campus with Cerro de la Silla) and for Projects (two lab-session photos). Colours were not chosen: navy + gold by default.
 - Home: photo hero, framed portrait (slightly rotated card), fields strip, About + News side by side (`.split`), "Selected papers" rows, BEER Lab feature band with the prize photo.

@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: teaching
 title: Teaching
 lede: Courses at Tecnológico de Monterrey, George Mason University and Universidad de los Andes.
 eyebrow: Courses

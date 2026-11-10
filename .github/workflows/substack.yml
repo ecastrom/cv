@@ -1,0 +1,40 @@
+name: Refresh Substack essays
+
+# Once a day, read the Substack feed; if there is a new essay, commit the
+# updated _data/substack.json and ask GitHub Pages to rebuild the site.
+on:
+  schedule:
+    - cron: "17 12 * * *"   # 06:17 in Monterrey
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Read the feed
+        run: python tools/fetch_substack.py
+
+      - name: Commit and rebuild if something changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- _data/substack.json; then
+            echo "No new essays."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/substack.json
+          git commit -m "Update Substack essays"
+          git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

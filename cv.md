@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: cv
 title: CV
 heading: Curriculum Vitae
 eyebrow: Edgar Orlando Castro Méndez

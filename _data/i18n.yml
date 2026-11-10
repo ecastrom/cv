@@ -1,0 +1,45 @@
+# Interface text for each language. Page text lives in the pages themselves
+# (English at the root, Spanish under es/). `base` is the URL prefix.
+en:
+  html_lang: en
+  base: ""
+  other_base: "/es"
+  other_label: ES
+  other_name: Español
+  subtitle: Economics · Tecnológico de Monterrey
+  description: economist at Tecnológico de Monterrey.
+  nav_research: Research
+  nav_teaching: Teaching
+  nav_projects: Projects
+  nav_cv: CV
+  nav_writing: Writing
+  statement: I study how people respond to prices, rules and information, using experiments in the lab and in the field.
+  banner_alt: Campus Monterrey of Tecnológico de Monterrey, with the mountains behind it
+  banner_caption: Campus Monterrey, Tecnológico de Monterrey
+  portrait_alt: Edgar O. Castro Méndez in his office
+  cv_pdf: /assets/Castro_CV.pdf
+  cv_pdf_label: CV (PDF)
+  beer_url: https://beer-lab.org/en/
+  address: Tecnológico de Monterrey, Av. Eugenio Garza Sada 2501 Sur, Col. Tecnológico, 64700 Monterrey, N.L., Mexico
+
+es:
+  html_lang: es
+  base: "/es"
+  other_base: ""
+  other_label: EN
+  other_name: English
+  subtitle: Economía · Tecnológico de Monterrey
+  description: economista en el Tecnológico de Monterrey.
+  nav_research: Investigación
+  nav_teaching: Docencia
+  nav_projects: Proyectos
+  nav_cv: CV
+  nav_writing: Ensayos
+  statement: Estudio cómo responden las personas a los precios, las reglas y la información, con experimentos en el laboratorio y en el campo.
+  banner_alt: Campus Monterrey del Tecnológico de Monterrey, con las montañas al fondo
+  banner_caption: Campus Monterrey, Tecnológico de Monterrey
+  portrait_alt: Edgar O. Castro Méndez en su oficina
+  cv_pdf: /assets/Castro_CV_es.pdf
+  cv_pdf_label: CV (PDF)
+  beer_url: https://beer-lab.org/
+  address: Tecnológico de Monterrey, Av. Eugenio Garza Sada 2501 Sur, Col. Tecnológico, 64700 Monterrey, N.L., México

@@ -1,6 +1,8 @@
 title: Edgar O. Castro Méndez
 email: ecastrom@tec.mx
-address: Tecnológico de Monterrey, Av. Eugenio Garza Sada 2501 Sur, Col. Tecnológico, 64700 Monterrey, N.L., Mexico
+substack: https://substack.com/@edgarcastrom
+url: https://ecastrom.github.io
+baseurl: /cv
 
 markdown: kramdown
 

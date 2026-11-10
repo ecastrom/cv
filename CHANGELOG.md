@@ -47,6 +47,14 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 
 24. Your office photo is back with your students' notes on the cork board behind you (a retouched version without them was tried and dropped). There is no caption under the photo.
 
+## 2026-11-09 — Session 3 (cont.): Spanish version and Substack
+
+25. The whole site now exists in Spanish under ecastrom.github.io/cv/es/ (Inicio, Investigación, Docencia, Proyectos, CV, Ensayos). An EN | ES button in the green bar switches to the same page in the other language. English stays at the old addresses.
+26. Spanish CV page and a Spanish PDF (`assets/Castro_CV_es.pdf`); `python tools/build_cv.py` now builds both PDFs.
+27. Substack: a new "Writing" / "Ensayos" page lists every essay of *Economics Over Lunch and Coffee* with date, subtitle and opening lines; the three latest also appear on the home page. Essays in the other language are marked ("in Spanish" / "en inglés"). Links to your Substack were added to the cover and the footer.
+28. A daily GitHub job (`.github/workflows/substack.yml`) reads your Substack feed and updates the list when you publish; no action needed from you.
+29. On phones the menu now wraps onto two lines.
+
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
 

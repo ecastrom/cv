@@ -1,0 +1,12 @@
+{% assign lang = page.lang | default: 'en' %}{% assign n = include.limit | default: 100 %}
+<div class="essays{% if include.list %} essays-list{% endif %}">
+{% for p in site.data.substack limit: n %}
+<article class="essay">
+<p class="kicker">{% if lang == 'es' %}{{ p.date_es }}{% else %}{{ p.date_en }}{% endif %}{% if p.lang != lang %} · {% if lang == 'es' %}en inglés{% else %}in Spanish{% endif %}{% endif %}</p>
+<h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+{% if p.subtitle != "" %}<p class="essay-sub">{{ p.subtitle }}</p>{% endif %}
+<p class="essay-excerpt">{{ p.excerpt }}</p>
+<p class="essay-more"><a href="{{ p.url }}">{% if lang == 'es' %}Leer en Substack{% else %}Read on Substack{% endif %} →</a></p>
+</article>
+{% endfor %}
+</div>

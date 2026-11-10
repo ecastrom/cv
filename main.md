@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: main
 title: Home
 home: true
 lede: I am a full-time economics faculty member in the School of Social Sciences and Government at Tecnológico de Monterrey, Campus Monterrey, Mexico.
@@ -70,6 +72,13 @@ lede: I am a full-time economics faculty member in the School of Social Sciences
 </div>
 <p class="paper-links"><a href="https://www.stanislaomaldonado.org/documents/research/tackling-biased-beliefs.pdf">Read paper ↗</a></p>
 </article>
+
+<div class="section-head">
+<div><p class="kicker">Substack · Economics Over Lunch and Coffee</p><h2>Latest essays</h2></div>
+<a class="more" href="writing">All essays →</a>
+</div>
+
+{% include essays.html limit=3 %}
 
 <section class="feature">
 <img src="assets/img/beer-lab-prizes.jpg" alt="Students holding their prizes after a BEER Lab session" loading="lazy">

@@ -1,8 +1,9 @@
-"""Build the PDF CV from cv.md.
+"""Build the PDF CVs from cv.md (English) and es/cv.md (Spanish).
 
-cv.md is the single source. This script converts it to LaTeX
-(latex/cv_body.tex), which latex/cv.tex includes, then runs latexmk and
-copies the result to assets/Castro_CV.pdf.
+Each Markdown page is the single source for its PDF. This script converts it
+to LaTeX (latex/cv_body.tex or latex/cv_es_body.tex), which the matching
+template (latex/cv.tex or latex/cv_es.tex) includes, then runs latexmk and
+copies the result to assets/Castro_CV.pdf or assets/Castro_CV_es.pdf.
 
 Usage (from the repository root):  python tools/build_cv.py
 """
@@ -12,9 +13,12 @@ import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "cv.md"
-BODY = ROOT / "latex" / "cv_body.tex"
-PDF_OUT = ROOT / "assets" / "Castro_CV.pdf"
+LATEX = ROOT / "latex"
+# (Markdown source, generated body, template, PDF written to assets/)
+JOBS = [
+    ("cv.md", "cv_body.tex", "cv.tex", "Castro_CV.pdf"),
+    ("es/cv.md", "cv_es_body.tex", "cv_es.tex", "Castro_CV_es.pdf"),
+]
 
 DATE = re.compile(r'^<span class="date">(.*?)</span>\s*(.*)$')
 
@@ -77,12 +81,13 @@ def convert(md):
 
 
 def main():
-    BODY.write_text("% Generated from cv.md by tools/build_cv.py. Do not edit.\n"
-                    + convert(SRC.read_text(encoding="utf-8")), encoding="utf-8")
-    subprocess.run(["latexmk", "-xelatex","-interaction=nonstopmode", "-quiet", "cv.tex"],
-                   cwd=BODY.parent, check=True)
-    shutil.copyfile(BODY.parent / "cv.pdf", PDF_OUT)
-    print(f"Wrote {PDF_OUT.relative_to(ROOT)}")
+    for src, body, template, pdf in JOBS:
+        (LATEX / body).write_text(f"% Generated from {src} by tools/build_cv.py. Do not edit.\n"
+                                  + convert((ROOT / src).read_text(encoding="utf-8")), encoding="utf-8")
+        subprocess.run(["latexmk", "-xelatex", "-interaction=nonstopmode", "-quiet", template],
+                       cwd=LATEX, check=True)
+        shutil.copyfile(LATEX / template.replace(".tex", ".pdf"), ROOT / "assets" / pdf)
+        print(f"Wrote assets/{pdf}")
 
 
 if __name__ == "__main__":

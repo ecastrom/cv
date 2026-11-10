@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: projects
 title: Projects
 lede: A research laboratory and the classroom games built around it.
 eyebrow: BEER Lab and classroom experiments

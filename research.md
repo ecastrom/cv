@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: research
 title: Research
 heading: Research
 eyebrow: Papers and work in progress

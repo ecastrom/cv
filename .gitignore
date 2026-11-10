@@ -1,6 +1,8 @@
 latex/*
 !latex/cv.tex
 !latex/cv_body.tex
+!latex/cv_es.tex
+!latex/cv_es_body.tex
 ~$*
 *.tmp
 _site/
