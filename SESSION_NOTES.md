@@ -45,7 +45,7 @@ Restyled 2026-11-08 (see "Design" below).
 
 ## Hoarding paper (2026-11-10)
 - Latest version = BEER Lab WP 2026-02 (Sept 2026), authors Castro, Martinelli, **Nicholas Brown** (title page and beer-lab.org page agree). PDF: https://beer-lab.org/investigacion/wp/2026-02/BEER_WP_2026-02_Castro_Martinelli_Brown_Price_Distortions_Hoarding.pdf ; pages: /en/research/wp/2026-02/ and /investigacion/wp/2026-02/. Link to the lab, do not upload a copy (PI: "the last version is on the BEER Lab website"). Status still "Revise and resubmit, JEBO" (not changed by the PI).
-- `assets/Hoarding_price_distortions.pdf` (old 2023 file) is not linked anywhere but is still reachable by URL; ask before deleting.
+- `assets/Hoarding_price_distortions.pdf` (old 2023 version) deleted at the PI's request on 2026-11-10. `assets/pdf/Edgar_Castro_JMP_2023.pdf` is the same 2023 paper (2023 job market paper); not linked, kept unless the PI asks.
 
 ## Design (2026-11-09, replaces the 2026-11-08 design below)
 - The PI found the green design "too minimalistic" and asked for something richer, like stanislaomaldonado.org. He sent the photos for the home page (office selfie, prize group photo, campus with Cerro de la Silla) and for Projects (two lab-session photos). Colours were not chosen: navy + gold by default.
