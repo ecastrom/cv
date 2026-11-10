@@ -2,6 +2,7 @@
 layout: default
 title: CV
 heading: Curriculum Vitae
+eyebrow: Edgar Orlando Castro Méndez
 ---
 
 <p class="cv-meta">Edgar Orlando Castro Méndez · <a href="mailto:ecastrom@tec.mx">ecastrom@tec.mx</a> · <a href="assets/Castro_CV.pdf">PDF version</a></p>

@@ -7,45 +7,75 @@
 <meta name="description" content="{{ site.title }}, economist at Tecnológico de Monterrey.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M' }}">
 </head>
 <body>
-<header class="masthead">
-  <div class="wrap">
-    <div class="topline">
-      {% unless page.home %}<a class="site-name" href="{{ '/main' | relative_url }}">{{ site.title }}</a>{% endunless %}
-      <nav>
-        <a href="{{ '/research' | relative_url }}"{% if page.title == 'Research' %} aria-current="page"{% endif %}>Research</a>
-        <a href="{{ '/teaching' | relative_url }}"{% if page.title == 'Teaching' %} aria-current="page"{% endif %}>Teaching</a>
-        <a href="{{ '/projects' | relative_url }}"{% if page.title == 'Projects' %} aria-current="page"{% endif %}>Projects</a>
-        <a href="{{ '/cv' | relative_url }}"{% if page.title == 'CV' %} aria-current="page"{% endif %}>CV</a>
-      </nav>
-    </div>
-    <h1>{% if page.home %}{{ site.title }}{% else %}{{ page.heading | default: page.title }}{% endif %}</h1>
-    {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+<header class="bar">
+  <div class="wrap bar-inner">
+    <a class="site-name" href="{{ '/main' | relative_url }}">{{ site.title }}<span>Economics · Tecnológico de Monterrey</span></a>
+    <nav>
+      <a href="{{ '/research' | relative_url }}"{% if page.title == 'Research' %} aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/teaching' | relative_url }}"{% if page.title == 'Teaching' %} aria-current="page"{% endif %}>Teaching</a>
+      <a href="{{ '/projects' | relative_url }}"{% if page.title == 'Projects' %} aria-current="page"{% endif %}>Projects</a>
+      <a href="{{ '/cv' | relative_url }}"{% if page.title == 'CV' %} aria-current="page"{% endif %}>CV</a>
+    </nav>
   </div>
 </header>
 
-<main class="wrap{% if page.home %} home{% endif %}">
 {% if page.home %}
-<aside class="side">
-  <img class="portrait" src="{{ '/assets/img/photo.jpg' | relative_url }}" alt="Edgar O. Castro Méndez" width="160" height="240">
-  <p class="contact">
-    <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
-    <a href="{{ '/assets/Castro_CV.pdf' | relative_url }}">CV (PDF)</a>
-  </p>
-</aside>
-<div class="body">
-{{ content }}
+<section class="hero hero-home" style="--hero: url('{{ '/assets/img/campus.jpg' | relative_url }}')">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">Economist · Tecnológico de Monterrey</p>
+      <h1>Edgar O.<br>Castro Méndez</h1>
+      <p class="tagline">Incentives, beliefs and public policy.</p>
+      <p class="hero-text">{{ page.lede }}</p>
+      <p class="actions">
+        <a class="btn btn-solid" href="{{ '/research' | relative_url }}">Research</a>
+        <a class="btn btn-line" href="{{ '/assets/Castro_CV.pdf' | relative_url }}">Curriculum vitae</a>
+      </p>
+    </div>
+    <figure class="portrait-card">
+      <img src="{{ '/assets/img/portrait.jpg' | relative_url }}" alt="Edgar O. Castro Méndez in his office" width="640" height="800">
+      <figcaption><span>Campus Monterrey</span><span>Mexico</span></figcaption>
+    </figure>
+  </div>
+</section>
+<div class="fields">
+  <div class="wrap fields-grid">
+    <span><i>01</i>Experimental economics</span>
+    <span><i>02</i>Public economics</span>
+    <span><i>03</i>Political economy</span>
+    <span><i>04</i>Applied microeconomics</span>
+  </div>
 </div>
 {% else %}
-{{ content }}
+<section class="hero{% if page.hero %} hero-photo{% endif %}"{% if page.hero %} style="--hero: url('{{ page.hero | relative_url }}')"{% endif %}>
+  <div class="wrap">
+    <p class="eyebrow">{{ page.eyebrow | default: page.title }}</p>
+    <h1>{{ page.heading | default: page.title }}</h1>
+    {% if page.lede %}<p class="hero-text">{{ page.lede }}</p>{% endif %}
+  </div>
+</section>
 {% endif %}
+
+<main class="wrap{% if page.home %} home{% endif %}">
+{{ content }}
 </main>
 
 <footer class="site-footer">
-  <div class="wrap">{{ site.address }}</div>
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-name">{{ site.title }}</p>
+      <p>{{ site.address }}</p>
+    </div>
+    <p class="footer-links">
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+      <a href="https://beer-lab.org/en/">BEER Lab</a><br>
+      <a href="{{ '/assets/Castro_CV.pdf' | relative_url }}">CV (PDF)</a>
+    </p>
+  </div>
 </footer>
 </body>
 </html>

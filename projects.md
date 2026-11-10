@@ -2,6 +2,8 @@
 layout: default
 title: Projects
 lede: A research laboratory and the classroom games built around it.
+eyebrow: BEER Lab and classroom experiments
+hero: /assets/img/lab-session.jpg
 ---
 
 <div class="project">
@@ -20,4 +22,9 @@ lede: A research laboratory and the classroom games built around it.
 <p>A collection of about 185 experimental economics games that instructors can run in class from a browser, with guides that are free to reuse. I am one of the contributors to the collection.</p>
 <p><a href="https://teaching.beer-lab.org/en/">Browse the games</a> · <a href="https://teaching.beer-lab.org/guia/en/">Instructor guide</a></p>
 </div>
+</div>
+
+<div class="gallery">
+<figure><img src="assets/img/lab-teams.jpg" alt="Students working in teams during a BEER Lab session" loading="lazy"><figcaption>Teams working through a session in the computer lab.</figcaption></figure>
+<figure><img src="assets/img/beer-lab-prizes.jpg" alt="Students holding their prizes after a BEER Lab session" loading="lazy"><figcaption>Prizes after a session.</figcaption></figure>
 </div>

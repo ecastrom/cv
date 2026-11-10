@@ -2,6 +2,8 @@
 layout: default
 title: Teaching
 lede: Courses at Tecnológico de Monterrey, George Mason University and Universidad de los Andes.
+eyebrow: Courses
+hero: /assets/img/lab-room.jpg
 ---
 
 ## Tecnológico de Monterrey

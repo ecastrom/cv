@@ -11,8 +11,10 @@ Restyled 2026-11-08 (see "Design" below).
 | File | Role |
 |---|---|
 | `_config.yml` | site title, email, address (footer); `exclude` list |
-| `_layouts/default.html` | green masthead holding site name, nav (Research · Teaching · Projects · CV), the page title (`heading` or `title` from front matter) and an optional `lede`; home (`home: true`) gets photo + email + CV link in a left column; footer |
-| `assets/css/site.css` | all styling. Serif (Source Serif 4), 54rem wide, light and dark, phone breakpoint 720px, print |
+| `_layouts/default.html` | (2026-11-09) navy top bar with name + nav; home (`home: true`) gets a campus-photo hero with name, tagline, `lede`, buttons, framed portrait, then a 4-field strip; other pages get a navy hero with `eyebrow`, `heading`/`title`, `lede`, and a background photo if `hero:` is set; navy footer |
+| `assets/css/site.css` | all styling. Navy `#14203b` + gold `#c19a4b`; Source Serif 4 (text, headings) + Inter (labels, nav, buttons); 72rem wide; breakpoints 860/640px; light and dark; print |
+| `assets/img/` | web photos (EXIF stripped): campus.jpg (home hero), portrait.jpg (office selfie, 4:5), beer-lab-prizes.jpg, lab-session.jpg (Projects hero), lab-teams.jpg, lab-room.jpg (Teaching hero). `photo.jpg` (suit headshot) no longer used |
+| `assets/photo/` | the PI's raw WhatsApp photos (63); git-ignored, never publish them directly |
 | `main.md` | home page (URL `/cv/main`, linked from elsewhere, so keep that URL) |
 | `index.html` | redirects `/cv/` to `/cv/main` |
 | `cv.md` | web CV **and the single source for the PDF** |
@@ -31,7 +33,14 @@ Restyled 2026-11-08 (see "Design" below).
 - Links `[text](url)`, `*italic*`, `"quoted titles"`. A trailing double space is a line break.
 - After editing cv.md, run `python tools/build_cv.py` and commit the new PDF.
 
-## Design (2026-11-08)
+## Design (2026-11-09, replaces the 2026-11-08 design below)
+- The PI found the green design "too minimalistic" and asked for something richer, like stanislaomaldonado.org. He sent the photos for the home page (office selfie, prize group photo, campus with Cerro de la Silla) and for Projects (two lab-session photos). Colours were not chosen: navy + gold by default.
+- Home: photo hero, framed portrait (slightly rotated card), fields strip, About + News side by side (`.split`), "Selected papers" rows, BEER Lab feature band with the prize photo.
+- Research: `<article class="paper">` rows: `.paper-meta` (year, kind) | title, authors, venue | `.paper-links` (first link is the "Read paper" button). Work in progress uses `.paper compact`.
+- News items on the home page are hand-written in main.md; keep them factual (sourced from research.md/cv.md).
+- Student photos: the PI chose the prize photo (identifiable students). I flagged consent; still unconfirmed.
+
+## Design (2026-11-08, superseded)
 - The PI asked for something like stanislaomaldonado.org (his coauthor's site) "but not an obvious copy", in GMU colors, whole site, and **no search bar** (his output is small).
 - Taken from the reference: a coloured band with the page title, a wider page, a side column of labels. Deliberately different: one band instead of white header + photo banner, no breadcrumb, no numerals, no logo, no boxed buttons, labels on the left rather than role on the right, all serif.
 - Colors: Mason green `#006633` (masthead, links) and gold `#ffcc33` (rule under the masthead, current nav item). Dark mode: deeper green band, gold links.

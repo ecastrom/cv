@@ -5,3 +5,4 @@ latex/*
 *.tmp
 _site/
 .claude/
+assets/photo/
