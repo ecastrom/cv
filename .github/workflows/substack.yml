@@ -5,6 +5,7 @@ name: Refresh Substack essays
 on:
   schedule:
     - cron: "17 12 * * *"   # 06:17 in Monterrey
+    - cron: "47 23 * * *"   # 17:47 in Monterrey (second try if the morning run was turned away)
   workflow_dispatch:
 
 permissions:
@@ -15,14 +16,11 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
+      # The runner's own Python 3 is enough: the script uses only the standard library.
       - name: Read the feed
-        run: python tools/fetch_substack.py
+        run: python3 tools/fetch_substack.py
 
       - name: Commit and rebuild if something changed
         env:

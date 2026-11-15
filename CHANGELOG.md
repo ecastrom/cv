@@ -60,6 +60,9 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 30. "Price Distortions and Hoarding: An Experiment" now points to the latest version, BEER Lab Working Paper 2026-02 (September 2026), on the research pages, both home pages (selected papers and a new News item) and both CVs. Coauthors updated to César Martinelli and Nicholas Brown, as on the paper's title page. The 2023 SSRN version stays linked as "2023 version". The Spanish PDF margins were trimmed slightly to keep it at 3 pages.
 31. Deleted the old 2023 copy of the hoarding paper (`assets/Hoarding_price_distortions.pdf`) from the site.
 32. Deleted the identical 2023 job-market-paper copy (`assets/pdf/Edgar_Castro_JMP_2023.pdf`).
+33. Added your new essay "Los mercados que nos negamos a tener" (Nov 15, 2026) to the site by hand.
+34. Removed "This list updates itself when I publish." / "Esta lista se actualiza sola cuando publico." from the Writing pages.
+35. The daily Substack job was failing most days because Substack sometimes refuses GitHub's servers. It now retries several times, runs twice a day, and keeps the current list instead of failing.
 
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.

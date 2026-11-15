@@ -7,6 +7,8 @@ Only the standard library is used, so the GitHub runner needs no installs.
 import html
 import json
 import re
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -45,10 +47,34 @@ def language(text):
     return "es" if es > en else "en"
 
 
+def read_feed(attempts=4):
+    """Return the parsed feed, or None if Substack keeps refusing.
+
+    Substack sometimes turns away requests from cloud servers such as GitHub's.
+    Retry with growing pauses; if it still fails, the caller keeps the current
+    list and the next scheduled run tries again.
+    """
+    req = urllib.request.Request(FEED, headers={
+        "User-Agent": "ecastrom.github.io site builder (+https://ecastrom.github.io/cv/)",
+        "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+    })
+    for attempt in range(1, attempts + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return ET.fromstring(resp.read())
+        except (urllib.error.URLError, ET.ParseError, TimeoutError) as err:
+            print(f"Attempt {attempt} failed: {err}")
+            if attempt < attempts:
+                time.sleep(15 * attempt)
+    return None
+
+
 def main():
-    req = urllib.request.Request(FEED, headers={"User-Agent": "ecastrom.github.io site builder"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        root = ET.fromstring(resp.read())
+    root = read_feed()
+    if root is None:
+        # GitHub shows this as a warning, not a failed run.
+        print("::warning::Could not read the Substack feed; keeping the current essay list.")
+        return
 
     posts = []
     for item in root.find("channel").findall("item"):
