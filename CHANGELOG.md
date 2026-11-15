@@ -59,6 +59,7 @@ Checked in a local preview at desktop and phone widths, light and dark. Committe
 
 30. "Price Distortions and Hoarding: An Experiment" now points to the latest version, BEER Lab Working Paper 2026-02 (September 2026), on the research pages, both home pages (selected papers and a new News item) and both CVs. Coauthors updated to César Martinelli and Nicholas Brown, as on the paper's title page. The 2023 SSRN version stays linked as "2023 version". The Spanish PDF margins were trimmed slightly to keep it at 3 pages.
 31. Deleted the old 2023 copy of the hoarding paper (`assets/Hoarding_price_distortions.pdf`) from the site.
+32. Deleted the identical 2023 job-market-paper copy (`assets/pdf/Edgar_Castro_JMP_2023.pdf`).
 
 ### Current state
 Site live at ecastrom.github.io/cv (the live site changes only after a push). Open questions are listed in SESSION_NOTES.md.
