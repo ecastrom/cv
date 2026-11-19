@@ -47,7 +47,7 @@ Microeconomía aplicada, economía experimental, economía pública, economía p
 
 ## Presentaciones en congresos
 
-- <span class="date">2026</span> Academics Against Corruption in the Americas, Quito; Public Choice Society Annual Meeting, San Antonio
+- <span class="date">2026</span> Workshop of Experimental and Behavioral Economics of the Americas (WEBEAS, en línea); JBEE–LACEA BRAIN–Tec Workshop, Ciudad de México; Academics Against Corruption in the Americas, Quito; Public Choice Society Annual Meeting, San Antonio
 - <span class="date">2025</span> LACEA Annual Meeting, Recife; Workshop on Behavioral and Experimental Economics, SUFE, Shanghái; APEE Annual Meeting, Antigua Guatemala
 - <span class="date">2022</span> APEE Annual Meeting, Las Vegas
 - <span class="date">2021</span> APEE Annual Meeting, Fort Lauderdale; Shadow Economy, Tax Behavior, and Institutions Workshop (en línea)
